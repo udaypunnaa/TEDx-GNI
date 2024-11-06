@@ -1641,7 +1641,7 @@
     }
 }
 
-@media (min-width:768px) and (max-width:1180px) {
+@media (min-width:768px) and (max-width:1180px) { 
     .glow-on-hover {
         width: 120px;
         left: 600px;
