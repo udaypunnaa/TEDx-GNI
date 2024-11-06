@@ -1,0 +1,1725 @@
+@media (min-width:1181px) and (max-width:1300px) {
+    #mad img {
+        filter: invert(100%);
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .sponsors {
+        position: absolute;
+        top: 215px;
+        left: 449px;
+        font-size: 128px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 702px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .sponsor-page-child {
+        position: absolute;
+        top: 573px;
+        left: 196px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 336px;
+        height: 220px;
+    }
+
+    .sponsor-page-item {
+        position: absolute;
+        top: 573px;
+        left: 691px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 336px;
+        height: 220px;
+    }
+
+    .previous-sponsors {
+        position: absolute;
+        top: 400px;
+        left: 145px;
+        font-size: 40px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 435px;
+        height: 52px;
+    }
+
+    .present-sponsors {
+        position: absolute;
+        top: 990px;
+        left: 145px;
+        font-size: 40px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 435px;
+        height: 52px;
+    }
+
+    .oip-removebg-preview-4-1 {
+        position: absolute;
+        top: 635px;
+        left: 207px;
+        width: 318px;
+        height: 110px;
+        object-fit: cover;
+    }
+
+    .gbeqakz4qiz66sgmxjz4kevztta163-icon {
+        position: absolute;
+        top: 578px;
+        left: 742px;
+        width: 234px;
+        height: 224px;
+        object-fit: cover;
+        filter: invert(100%);
+    }
+
+    .platinum-sponsor {
+        margin: 0;
+        white-space: pre-wrap;
+    }
+
+    .p {
+        margin: 0;
+    }
+
+    .platinum-sponsor-in-container {
+        position: absolute;
+        top: 818px;
+        left: 118px;
+        font-size: 24px;
+        line-height: 30px;
+        font-family: 'Lao Muang Don';
+        text-align: center;
+        display: inline-block;
+        width: 474px;
+        height: 51px;
+    }
+
+    .food-sponsor-in-container {
+        position: absolute;
+        top: 816px;
+        left: 622px;
+        font-size: 24px;
+        line-height: 30px;
+        font-family: 'Lao Muang Don';
+        text-align: center;
+        display: inline-block;
+        width: 474px;
+        height: 51px;
+    }
+
+    .sponsor-page-inner {
+        position: absolute;
+        top: 1137px;
+        left: 189px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 336px;
+        height: 220px;
+    }
+
+    .rectangle-div {
+        position: absolute;
+        top: 1137px;
+        left: 684px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 336px;
+        height: 220px;
+    }
+
+    .oip-removebg-preview-4-2 {
+        position: absolute;
+        top: 1199px;
+        left: 204px;
+        width: 318px;
+        height: 110px;
+        object-fit: cover;
+    }
+
+    .gbeqakz4qiz66sgmxjz4kevztta163-icon1 {
+        position: absolute;
+        top: 1142px;
+        left: 735px;
+        width: 234px;
+        height: 224px;
+        object-fit: cover;
+    }
+
+    .platinum-sponsor-in-container1 {
+        position: absolute;
+        top: 1382px;
+        left: 111px;
+        font-size: 24px;
+        line-height: 30px;
+        font-family: 'Lao Muang Don';
+        text-align: center;
+        display: inline-block;
+        width: 474px;
+        height: 51px;
+    }
+
+    .food-sponsor-in-container1 {
+        position: absolute;
+        top: 1380px;
+        left: 615px;
+        font-size: 24px;
+        line-height: 30px;
+        font-family: 'Lao Muang Don';
+        text-align: center;
+        display: inline-block;
+        width: 474px;
+        height: 51px;
+    }
+
+    .group-child {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background-color: #000;
+        width: 1186.9px;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 12.98px;
+        left: 23.9px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .rectangle-parent {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        font-size: 20px;
+    }
+
+    .home1 {
+        position: absolute;
+        top: 1910px;
+        left: 130px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71px;
+        height: 25px;
+    }
+
+    .about1 {
+        position: absolute;
+        top: 1943px;
+        left: 130px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 1975px;
+        left: 130px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .sponsor1 {
+        position: absolute;
+        top: 2007px;
+        left: 130px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 2040px;
+        left: 130px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .contact-us1 {
+        position: absolute;
+        top: 2073px;
+        left: 130px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158px;
+        height: 25px;
+    }
+
+    .map {
+        position: absolute;
+        top: 1961px;
+        left: 847px;
+        font-size: 32px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 114px;
+        height: 43px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 1825px;
+        left: 98px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        font-size: 40px;
+        font-weight: 800;
+        display: inline-block;
+        width: 422px;
+        height: 38px;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 75px;
+        left: 50px;
+        font-size: 32px;
+        display: inline-block;
+        width: 423px;
+        height: 47px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 252px;
+        left: 50px;
+        display: inline-block;
+        width: 288px;
+        height: 47px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 207px;
+        left: 52px;
+        color: inherit;
+        display: inline-block;
+        width: 246px;
+        height: 31px;
+        text-decoration: none;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 206px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 260px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 79px;
+        left: 2px;
+        width: 32px;
+        height: 31px;
+    }
+
+    .contact-info-parent {
+        position: absolute;
+        top: 1825px;
+        left: 667px;
+        width: 473px;
+        height: 299px;
+        font-size: 24px;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 2164px;
+        left: -78px;
+        font-size: 16px;
+        text-align: center;
+        display: inline-block;
+        width: 1399px;
+        height: 58px;
+    }
+
+    .sponsor-page {
+        width: 100%;
+        position: relative;
+        background-color: #00000000;
+        height: 2222px;
+        text-align: left;
+        font-size: 18px;
+        color: #fff;
+        font-family: Inter;
+    }
+
+
+    body {
+        margin: 0;
+        line-height: normal;
+    }
+
+    html {
+        width: 100%;
+        background-color: #000;
+        overflow-x: hidden;
+    }
+
+
+    .home {
+        position: absolute;
+        top: 17.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+        font-size: 18px;
+    }
+
+    .home:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 17.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .speakers:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .about {
+        position: absolute;
+        top: 17.06px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .about:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 17.06px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .sponsor:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 17.06px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .contact-us:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .event {
+        position: absolute;
+        top: 17.06px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .event:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 17.06px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+        font-size: 18px;
+    }
+
+    .gallery:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        background-color: #000;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .register-now {
+        position: absolute;
+        top: 13px;
+        left: 999.33px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 200.7px;
+        height: 23px;
+    }
+
+    .button {
+        cursor: pointer;
+        position: relative;
+        bottom: 5px;
+        padding: 10px 24px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        border: 2px solid rgb(237, 18, 18);
+        border-radius: 34px;
+        background-color: transparent;
+        font-weight: 600;
+        transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+        overflow: hidden;
+    }
+
+    .button::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        width: 50px;
+        height: 50px;
+        border-radius: inherit;
+        scale: 0;
+        z-index: -1;
+        background-color: rgb(255, 255, 255);
+        transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+    }
+
+    .button:hover::before {
+        scale: 3;
+    }
+
+    .button:hover {
+        color: #c41515;
+        scale: 1.1;
+        box-shadow: 0 0px 22px rgba(255, 255, 255, 0.4);
+    }
+
+    .button:active {
+        scale: 2;
+    }
+}
+
+@media (min-width:768px) and (max-width:1180px) {
+    .mobile-version {
+        display: none;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .sponsors {
+        position: absolute;
+        top: 198px;
+        left: 220px;
+        font-size: 96px;
+        line-height: 50px;
+        display: inline-block;
+        width: 499px;
+        height: 70px;
+        opacity: 0.54;
+    }
+
+    .present-sponsors {
+        position: absolute;
+        top: 455px;
+        left: 76px;
+        font-size: 40px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 434px;
+        height: 38px;
+    }
+
+    .sponsor-page-child {
+        position: absolute;
+        top: 547px;
+        left: 132px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 226px;
+        height: 147px;
+    }
+
+    .sponsor-page-item {
+        position: absolute;
+        top: 547px;
+        left: 450px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 226px;
+        height: 147px;
+    }
+
+    .oip-removebg-preview-4-2 {
+        position: absolute;
+        top: 589px;
+        left: 126px;
+        width: 214px;
+        height: 73px;
+        object-fit: cover;
+    }
+
+    .oip-removebg-preview-4-6 {
+        filter: invert(100%);
+        position: absolute;
+        top: 589px;
+        left: 450px;
+        width: 214px;
+        height: 73px;
+        object-fit: cover;
+    }
+
+    .gbeqakz4qiz66sgmxjz4kevztta163-icon {
+        position: absolute;
+        top: 551px;
+        left: 484px;
+        width: 157px;
+        height: 149px;
+        object-fit: cover;
+    }
+
+    .platinum-sponsor {
+        margin: 0;
+        white-space: pre-wrap;
+    }
+
+    .p {
+        margin: 0;
+    }
+
+    .platinum-sponsor-in-container {
+        position: absolute;
+        top: 711px;
+        left: 65px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 318px;
+        height: 34px;
+    }
+
+    .platinum-sponsor-in-container3 {
+        position: absolute;
+        top: 711px;
+        left: 410px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 318px;
+        height: 34px;
+    }
+
+    .food-sponsor-in-container {
+        position: absolute;
+        top: 710px;
+        left: 404px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 318px;
+        height: 34px;
+    }
+
+    .previous-sponsors {
+        position: absolute;
+        top: 895px;
+        left: 65px;
+        font-size: 40px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 434px;
+        height: 38px;
+    }
+
+    .sponsor-page-inner {
+        position: absolute;
+        top: 987px;
+        left: 119px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 226px;
+        height: 147px;
+    }
+
+    .rectangle-div {
+        position: absolute;
+        top: 987px;
+        left: 450px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 226px;
+        height: 147px;
+    }
+
+    .oip-removebg-preview-4-3 {
+        position: absolute;
+        top: 1029px;
+        left: 126px;
+        width: 214px;
+        height: 73px;
+        object-fit: cover;
+    }
+
+    .gbeqakz4qiz66sgmxjz4kevztta163-icon1 {
+        position: absolute;
+        top: 991px;
+        left: 484px;
+        width: 157px;
+        height: 149px;
+        object-fit: cover;
+    }
+
+    .platinum-sponsor-in-container1 {
+        position: absolute;
+        top: 1151px;
+        left: 65px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 318px;
+        height: 34px;
+    }
+
+    .food-sponsor-in-container1 {
+        position: absolute;
+        top: 1150px;
+        left: 404px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 318px;
+        height: 34px;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 262px;
+        left: 0px;
+        font-size: 12px;
+        text-align: center;
+        display: inline-block;
+        width: 1404px;
+        height: 58px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 425.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 25px;
+    }
+
+    .about {
+        position: absolute;
+        top: 35px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 67px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 165px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 25px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 99px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .event {
+        position: absolute;
+        top: 132px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .copyrights-2024-tedx-gni-all-parent {
+        position: absolute;
+        top: 2237px;
+        left: -319px;
+        width: 1404px;
+        height: 320px;
+        font-size: 18px;
+        font-family: Inter;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 1793px;
+        left: 165px;
+        font-size: 32px;
+        font-family: Inter;
+        display: inline-block;
+        width: 434px;
+        height: 44px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 1972px;
+        left: 165px;
+        font-weight: 600;
+        font-family: Inter;
+        display: inline-block;
+        width: 295px;
+        height: 44px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 1922px;
+        left: 165px;
+        text-decoration: underline;
+        font-weight: 600;
+        font-family: Inter;
+        color: inherit;
+        display: inline-block;
+        width: 252px;
+        height: 28px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 1698px;
+        left: 101px;
+        font-size: 48px;
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 376px;
+        height: 36px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 1972px;
+        left: 101px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon1 {
+        position: absolute;
+        top: 1922px;
+        left: 105px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon2 {
+        position: absolute;
+        top: 1801px;
+        left: 105px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2141px;
+        left: 71px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .sponsor-page {
+        width: 100%;
+        position: relative;
+        background-color: #00000000;
+        overflow: hidden;
+        height: 2557px;
+        text-align: left;
+        font-size: 24px;
+        color: #fff;
+        font-family: 'Lao Muang Don';
+    }
+
+    * {
+        margin: 0;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+        align-content: center;
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+
+
+    .menu-container {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .menu-overlay.open {
+        top: 0;
+    }
+
+    .menu-overlay ul {
+        list-style: none;
+        text-align: center;
+    }
+
+    .menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        background-color: #000000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .glow-on-hover {
+        width: 120px;
+        left: 600px;
+        bottom: -10px;
+        height: 40px;
+        border: none;
+        outline: none;
+        color: #fff;
+        background: #111;
+        cursor: pointer;
+        position: relative;
+        z-index: 0;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:before {
+        content: '';
+        background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+        position: absolute;
+        top: -2px;
+        left: -2px;
+        background-size: 400%;
+        z-index: -1;
+        filter: blur(5px);
+        width: calc(100% + 4px);
+        height: calc(100% + 4px);
+        animation: glowing 20s linear infinite;
+        opacity: 0;
+        transition: opacity .3s ease-in-out;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:active {
+        color: #000
+    }
+
+    .glow-on-hover:active:after {
+        background: transparent;
+    }
+
+    .glow-on-hover:hover:before {
+        opacity: 1;
+    }
+
+    .glow-on-hover:after {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #eb0027a1;
+        left: 0;
+        top: 0;
+        border-radius: 10px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .tablet-version {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width:200px) and (max-width:767.5px) {
+    .tablet-version {
+        display: none;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .sponsors {
+        position: absolute;
+        top: 162px;
+        left: 47px;
+        font-size: 48px;
+        line-height: 50px;
+        display: inline-block;
+        width: 257px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .sponsor-page-child {
+        position: absolute;
+        top: 399px;
+        left: 41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 238px;
+        height: 153px;
+    }
+
+    .present-sponsors {
+        position: absolute;
+        top: 323px;
+        left: 25px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 435px;
+        height: 52px;
+    }
+
+    .oip-removebg-preview-4-1 {
+        position: absolute;
+        top: 438px;
+        left: 48px;
+        width: 225px;
+        height: 77px;
+        object-fit: cover;
+    }
+
+    .oip-removebg-preview-4-2 {
+        filter: invert(100%);
+        position: absolute;
+        top: 710px;
+        left: 48px;
+        width: 225px;
+        height: 77px;
+        object-fit: cover;
+    }
+
+    .platinum-sponsor {
+        margin: 0;
+        white-space: pre-wrap;
+    }
+
+    .p {
+        margin: 0;
+    }
+
+    .platinum-sponsor-in-container {
+        position: absolute;
+        top: 573px;
+        left: -8px;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 335px;
+        height: 35px;
+    }
+
+    .sponsor-page-item {
+        position: absolute;
+        top: 666px;
+        left: 41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 238px;
+        height: 153px;
+    }
+
+    .oip-removebg-preview-4-3 {
+        position: absolute;
+        top: 705px;
+        left: 48px;
+        width: 225px;
+        height: 77px;
+        object-fit: cover;
+    }
+
+    .platinum-sponsor-in-container1 {
+        position: absolute;
+        top: 840px;
+        left: -8px;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 335px;
+        height: 35px;
+    }
+
+    .sponsor-page-inner {
+        position: absolute;
+        top: 1032px;
+        left: 41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 238px;
+        height: 153px;
+    }
+
+    .previous-sponsors {
+        position: absolute;
+        top: 956px;
+        left: 25px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 435px;
+        height: 52px;
+    }
+
+    .oip-removebg-preview-4-4 {
+        position: absolute;
+        top: 1071px;
+        left: 48px;
+        width: 225px;
+        height: 77px;
+        object-fit: cover;
+    }
+
+    .platinum-sponsor-in-container2 {
+        position: absolute;
+        top: 1206px;
+        left: -8px;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 335px;
+        height: 35px;
+    }
+
+    .rectangle-div {
+        position: absolute;
+        top: 1299px;
+        left: 41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 238px;
+        height: 153px;
+    }
+
+    .oip-removebg-preview-4-5 {
+        position: absolute;
+        top: 1310px;
+        left: 48px;
+        width: 225px;
+        height: 150px;
+        object-fit: cover;
+    }
+
+    .platinum-sponsor-in-container3 {
+        position: absolute;
+        top: 1473px;
+        left: -8px;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        display: inline-block;
+        width: 335px;
+        height: 35px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 1858px;
+        left: 31px;
+        font-size: 30px;
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 251px;
+        height: 39px;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 1938px;
+        left: 71px;
+        font-family: Inter;
+        display: inline-block;
+        width: 249px;
+        height: 160px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 2125px;
+        left: 71px;
+        text-decoration: underline;
+        font-weight: 600;
+        font-family: Inter;
+        color: inherit;
+        display: inline-block;
+        width: 249px;
+        height: 29px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 2181px;
+        left: 71px;
+        font-weight: 600;
+        font-family: Inter;
+        display: inline-block;
+        width: 200px;
+        height: 48px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 2.01px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 24.3px;
+    }
+
+    .about {
+        position: absolute;
+        top: 34.08px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 65.24px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 160.68px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 24.3px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 96.41px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .event {
+        position: absolute;
+        top: 128.54px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .home-parent {
+        position: absolute;
+        top: 2461.96px;
+        left: 67.78px;
+        width: 158.6px;
+        height: 185px;
+        font-size: 18px;
+        font-family: Inter;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 2718px;
+        left: 35px;
+        font-size: 10px;
+        font-family: Inter;
+        text-align: center;
+        display: inline-block;
+        width: 259px;
+        height: 64px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 1940.6px;
+        left: 32px;
+        width: 27px;
+        height: 29.7px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 2128.92px;
+        left: 33px;
+        width: 24px;
+        height: 26.4px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 2182.89px;
+        left: 33px;
+        width: 24px;
+        height: 26.4px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2361px;
+        left: 57px;
+        height: 61px;
+        object-fit: cover;
+    }
+
+    .logo-white-3-icon {
+        position: absolute;
+        top: 2361px;
+        left: 57px;
+        width: 300px;
+        height: 61px;
+        object-fit: cover;
+    }
+
+    .sponsor-page {
+        width: 100%;
+        position: relative;
+        background-color: #00000000;
+        height: 2782px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 24px;
+        color: #fff;
+        font-family: 'Lao Muang Don';
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    * {
+        margin: 0;
+    }
+
+    .mobile-menu-container {
+        position: fixed;
+        top: 18px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .mobile-hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .mobile-hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .mobile-hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .mobile-hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .mobile-hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .mobile-menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .mobile-menu-overlay.open {
+        top: 0;
+    }
+
+    .mobile-menu-overlay ul {
+        list-style: none;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .mobile-menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .mobile-menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .mobile-menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+
+    }
+
+    .rectangle-group {
+        position: fixed;
+        background-color: #000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 15px;
+        left: 69px;
+        height: 28px;
+        object-fit: cover;
+    }
+
+    .mobile-version {
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    body {
+        background-color: #000;
+    }
+
+    .buy {
+        background-color: black;
+        border-radius: 16px;
+        font-size: 26px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        width: 120px;
+        height: 90px;
+        padding: 8px;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .buy:hover a {
+        color: rgb(255, 255, 255);
+        background-color: #ffffff00;
+
+    }
+
+    .buy:hover {
+        color: black;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+
+    }
+}
+
+body {
+    background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+    background-attachment: fixed;
+}
+
+@media (min-width:1303px) {
+    .desktop-version {
+        max-width: 1303px;
+        margin: 0 auto;
+    }
+}
+
+/* The scroll bar itself */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+}
+
+/* The track (background of the scrollbar) */
+::-webkit-scrollbar-track {
+    background: #000;
+    /* Color of the track */
+}
+
+/* The handle (scroll bar thumb) */
+::-webkit-scrollbar-thumb {
+    background-color: #291f20;
+    /* Color of the thumb */
+    border-radius: 6px;
+    /* Rounded corners for the thumb */
+}
+
+/* On hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #EB0028;
+    /* Color when hovering over the thumb */
+}

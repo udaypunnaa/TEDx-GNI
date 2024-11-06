@@ -1,0 +1,2029 @@
+@media (min-width:1181px) and (max-width:1300px) {
+    .tablet-version {
+        display: none;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 240px;
+        left: 583px;
+        font-size: 128px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 568px;
+        height: 81px;
+        opacity: 0.54;
+    }
+
+    .gallery-page-child img {
+        position: absolute;
+        top: 425.5px;
+        left: 139.57px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 187.4px;
+    }
+
+    .gallery-page-item img {
+        position: absolute;
+        top: 425px;
+        left: 464.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-inner img {
+        position: absolute;
+        top: 426px;
+        left: 789.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .rectangle-div img {
+        position: absolute;
+        top: 967.5px;
+        left: 139.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child1 img {
+        position: absolute;
+        top: 967px;
+        left: 464.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child2 img {
+        position: absolute;
+        top: 968px;
+        left: 789.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child3 img {
+        position: absolute;
+        top: 695.5px;
+        left: 139.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child4 img {
+        position: absolute;
+        top: 695px;
+        left: 464.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child5 img {
+        position: absolute;
+        top: 696px;
+        left: 789.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child6 img {
+        position: absolute;
+        top: 1237.5px;
+        left: 139.57px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child7 img {
+        position: absolute;
+        top: 1237px;
+        left: 464.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child8 img {
+        position: absolute;
+        top: 1238px;
+        left: 789.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child9 img {
+        position: absolute;
+        top: 1779.5px;
+        left: 139.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child10 img {
+        position: absolute;
+        top: 1779px;
+        left: 464.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child11 img {
+        position: absolute;
+        top: 1780px;
+        left: 789.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child12 img {
+        position: absolute;
+        top: 2049.5px;
+        left: 139.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child13 img {
+        position: absolute;
+        top: 2049px;
+        left: 464.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child14 img {
+        position: absolute;
+        top: 2050px;
+        left: 789.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child15 img {
+        position: absolute;
+        top: 1507.5px;
+        left: 139.49px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child16 img {
+        position: absolute;
+        top: 1507px;
+        left: 464.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .gallery-page-child17 img {
+        position: absolute;
+        top: 1508px;
+        left: 789.41px;
+        border-radius: 46px;
+        background-color: #d9d9d9;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 274.3px;
+        height: 187.4px;
+    }
+
+    .group-child {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background-color: #000;
+        width: 1186.9px;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 12.98px;
+        left: 23.9px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .home {
+        position: absolute;
+        top: 20.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 20.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+    }
+
+    .about {
+        position: absolute;
+        top: 19.61px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 20px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 21px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+    }
+
+    .event {
+        position: absolute;
+        top: 20px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+    }
+
+    .gallery1 {
+        position: absolute;
+        top: 20px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+    }
+
+    .register-now {
+        position: absolute;
+        top: 17px;
+        left: 999.33px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 200.7px;
+        height: 23px;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        background-color: #000;
+    }
+
+    .home1 {
+        position: absolute;
+        top: 2502px;
+        left: 108px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71px;
+        height: 25px;
+    }
+
+    .about1 {
+        position: absolute;
+        top: 2535px;
+        left: 108px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 2567px;
+        left: 108px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .sponsor1 {
+        position: absolute;
+        top: 2599px;
+        left: 108px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 2632px;
+        left: 108px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .contact-us1 {
+        position: absolute;
+        top: 2665px;
+        left: 108px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158px;
+        height: 25px;
+    }
+
+    .map {
+        position: absolute;
+        top: 2553px;
+        left: 825px;
+        font-size: 32px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 114px;
+        height: 43px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2417px;
+        left: 76px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        font-size: 40px;
+        font-weight: 800;
+        display: inline-block;
+        width: 422px;
+        height: 38px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 75px;
+        left: 50px;
+        font-size: 32px;
+        display: inline-block;
+        width: 423px;
+        height: 47px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 252px;
+        left: 50px;
+        display: inline-block;
+        width: 288px;
+        height: 47px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 207px;
+        left: 52px;
+        color: inherit;
+        display: inline-block;
+        width: 246px;
+        height: 31px;
+        text-decoration: none;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 206px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 260px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 79px;
+        left: 2px;
+        width: 32px;
+        height: 31px;
+    }
+
+    .contact-info-parent {
+        position: absolute;
+        top: 2417px;
+        left: 645px;
+        width: 473px;
+        height: 299px;
+        font-size: 24px;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 2756px;
+        left: -100px;
+        font-size: 16px;
+        text-align: center;
+        display: inline-block;
+        width: 1399px;
+        height: 58px;
+    }
+
+    .gallery-page {
+        width: 100%;
+        position: relative;
+        background-color: #00000000;
+        height: 2814px;
+        text-align: left;
+        font-size: 18px;
+        color: #fff;
+        font-family: Inter;
+    }
+
+    * {
+        margin: 0px;
+    }
+
+    html {
+        width: 100%;
+        background-color: #00000000;
+        align-items: center;
+    }
+
+    .button {
+        cursor: pointer;
+        position: relative;
+        bottom: 5px;
+        padding: 10px 24px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        border: 2px solid rgb(237, 18, 18);
+        border-radius: 34px;
+        background-color: transparent;
+        font-weight: 600;
+        transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+        overflow: hidden;
+    }
+
+    .button::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        width: 50px;
+        height: 50px;
+        border-radius: inherit;
+        scale: 0;
+        z-index: -1;
+        background-color: rgb(255, 255, 255);
+        transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+    }
+
+    .button:hover::before {
+        scale: 3;
+    }
+
+    .button:hover {
+        color: #c41515;
+        scale: 1.1;
+        box-shadow: 0 0px 22px rgba(255, 255, 255, 0.4);
+    }
+
+    .button:active {
+        scale: 2;
+    }
+
+    .home {
+        position: absolute;
+        top: 17.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+        font-size: 18px;
+    }
+
+    .home:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 17.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .speakers:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .about {
+        position: absolute;
+        top: 17.06px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .about:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 17.06px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .sponsor:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 17.06px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .contact-us:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .event {
+        position: absolute;
+        top: 17.06px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .event:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .gallery1 {
+        position: absolute;
+        top: 17.06px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+        font-size: 18px;
+    }
+
+    .gallery1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .register-now {
+        position: absolute;
+        top: 13px;
+        left: 999.33px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 200.7px;
+        height: 23px;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+}
+
+@media (min-width:768px) and (max-width:1180px) {
+    .glow-on-hover {
+        width: 120px;
+        left: 600px;
+        bottom: -10px;
+        height: 40px;
+        border: none;
+        outline: none;
+        color: #fff;
+        background: #111;
+        cursor: pointer;
+        position: relative;
+        z-index: 0;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:before {
+        content: '';
+        background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+        position: absolute;
+        top: -2px;
+        left: -2px;
+        background-size: 400%;
+        z-index: -1;
+        filter: blur(5px);
+        width: calc(100% + 4px);
+        height: calc(100% + 4px);
+        animation: glowing 20s linear infinite;
+        opacity: 0;
+        transition: opacity .3s ease-in-out;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:active {
+        color: #000
+    }
+
+    .glow-on-hover:active:after {
+        background: transparent;
+    }
+
+    .glow-on-hover:hover:before {
+        opacity: 1;
+    }
+
+    .glow-on-hover:after {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #eb0027a1;
+        left: 0;
+        top: 0;
+        border-radius: 10px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 225px;
+        left: 320px;
+        font-size: 96px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 419px;
+        height: 81px;
+        opacity: 0.54;
+    }
+
+    .gallery-page-child {
+        position: absolute;
+        top: 457.43px;
+        left: 42.65px;
+        border-radius: 46px;
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-item {
+        position: absolute;
+        top: 457px;
+        left: 283.95px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-inner {
+        position: absolute;
+        top: 457.86px;
+        left: 525.31px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .rectangle-div {
+        position: absolute;
+        top: 922.46px;
+        left: 42.59px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child1 {
+        position: absolute;
+        top: 922.02px;
+        left: 283.89px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child2 {
+        position: absolute;
+        top: 922.88px;
+        left: 525.25px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child3 {
+        position: absolute;
+        top: 689.09px;
+        left: 42.59px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child4 {
+        position: absolute;
+        top: 688.65px;
+        left: 283.89px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child5 {
+        position: absolute;
+        top: 689.51px;
+        left: 525.25px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child6 {
+        position: absolute;
+        top: 1154.11px;
+        left: 42.65px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child7 {
+        position: absolute;
+        top: 1153.68px;
+        left: 283.95px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child8 {
+        position: absolute;
+        top: 1154.54px;
+        left: 525.31px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child9 {
+        position: absolute;
+        top: 1619.13px;
+        left: 42.59px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child10 {
+        position: absolute;
+        top: 1618.7px;
+        left: 283.89px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child11 {
+        position: absolute;
+        top: 1619.56px;
+        left: 525.25px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child12 {
+        position: absolute;
+        top: 1850.79px;
+        left: 42.59px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child13 {
+        position: absolute;
+        top: 1850.36px;
+        left: 283.89px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child14 {
+        position: absolute;
+        top: 1851.22px;
+        left: 525.25px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child15 {
+        position: absolute;
+        top: 1385.76px;
+        left: 42.59px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child16 {
+        position: absolute;
+        top: 1385.33px;
+        left: 283.89px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    .gallery-page-child17 {
+        position: absolute;
+        top: 1386.19px;
+        left: 525.25px;
+        border-radius: 46px;
+
+        box-sizing: border-box;
+        width: 203.7px;
+        height: 160.8px;
+    }
+
+    img {
+        border-radius: 12px;
+    }
+
+    .copyrights-2024-tedx {
+        margin: 0;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 262px;
+        left: 0px;
+        font-size: 12px;
+        text-align: center;
+        display: inline-block;
+        width: 1404px;
+        height: 58px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 425.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 25px;
+    }
+
+    .about {
+        position: absolute;
+        top: 35px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 67px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 165px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 25px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 99px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .event {
+        position: absolute;
+        top: 132px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .copyrights-2024-tedx-gni-all-parent {
+        position: absolute;
+        top: 2660px;
+        left: -337px;
+        width: 1404px;
+        height: 320px;
+        font-size: 18px;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 2216px;
+        left: 147px;
+        font-size: 32px;
+        display: inline-block;
+        width: 434px;
+        height: 44px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 2395px;
+        left: 147px;
+        font-weight: 600;
+        display: inline-block;
+        width: 295px;
+        height: 44px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 2345px;
+        left: 147px;
+        text-decoration: underline;
+        font-weight: 600;
+        color: inherit;
+        display: inline-block;
+        width: 252px;
+        height: 28px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 2121px;
+        left: 83px;
+        font-size: 48px;
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 376px;
+        height: 36px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2564px;
+        left: 53px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+
+    .gallery-page {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        background-color: #00000000;
+        height: 2977px;
+        text-align: left;
+        font-size: 24px;
+        color: #fff;
+        font-family: Inter;
+    }
+
+    * {
+        margin: 0;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+        align-content: center;
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+
+
+    .menu-container {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .menu-overlay.open {
+        top: 0;
+    }
+
+    .menu-overlay ul {
+        list-style: none;
+        text-align: center;
+    }
+
+    .menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        background-color: #000000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 2593px;
+        left: 106px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon1 {
+        position: absolute;
+        top: 2543px;
+        left: 110px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon2 {
+        position: absolute;
+        top: 2422px;
+        left: 110px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+}
+
+@media (min-width:200px) and (max-width:767.5px) {
+    .tablet-version {
+        display: none;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 107px;
+        left: 82px;
+        font-size: 48px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 203px;
+        height: 47px;
+        opacity: 0.54;
+    }
+
+    .gallery-page-child img {
+        position: absolute;
+        top: 251.34px;
+        left: 27.64px;
+        border-radius: 46px;
+        background-color: #d9d9d900;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+        border-radius: 9px;
+
+    }
+
+    .gallery-page-child19 {
+        width: 280px;
+        left: 40px;
+    }
+
+    .gallery-page-item img {
+        position: absolute;
+        top: 251px;
+        left: 176.96px;
+        border-radius: 9px;
+        background-color: #d9d9d900;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-inner img {
+        position: absolute;
+        top: 615.68px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .rectangle-div img {
+        position: absolute;
+        top: 615.34px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child1 img {
+        position: absolute;
+        top: 432.84px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child2 img {
+        position: absolute;
+        top: 432.5px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child3 img {
+        position: absolute;
+        top: 797.18px;
+        left: 27.64px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child4 img {
+        position: absolute;
+        top: 796.84px;
+        left: 176.96px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child5 img {
+        position: absolute;
+        top: 1161.53px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child6 img {
+        position: absolute;
+        top: 1161.19px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child7 img {
+        position: absolute;
+        top: 1343.03px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child8 img {
+        position: absolute;
+        top: 1342.69px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child9 img {
+        position: absolute;
+        top: 978.68px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child10 img {
+        position: absolute;
+        top: 978.34px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child11 img {
+        position: absolute;
+        top: 1516.34px;
+        left: 27.64px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child12 img {
+        position: absolute;
+        top: 1516px;
+        left: 176.96px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child13 img {
+        position: absolute;
+        top: 1880.68px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child14 img {
+        position: absolute;
+        top: 1880.34px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child15 img {
+        position: absolute;
+        top: 2062.18px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child16 img {
+        position: absolute;
+        top: 2061.84px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child17 img {
+        position: absolute;
+        top: 1697.84px;
+        left: 27.6px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child18 img {
+        position: absolute;
+        top: 1697.5px;
+        left: 176.92px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .gallery-page-child19 img {
+        position: absolute;
+        top: 2230.5px;
+        left: 30px;
+        border-radius: 9px;
+        background-color: #d9d9d9;
+
+        box-sizing: border-box;
+        width: 126px;
+        height: 126px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 2393px;
+        left: 26px;
+        font-size: 30px;
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 251px;
+        height: 39px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 2473px;
+        left: 66px;
+        display: inline-block;
+        width: 249px;
+        height: 160px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 2660px;
+        left: 66px;
+        text-decoration: underline;
+        font-weight: 600;
+        color: inherit;
+        display: inline-block;
+        width: 249px;
+        height: 29px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 2716px;
+        left: 66px;
+        font-weight: 600;
+        display: inline-block;
+        width: 200px;
+        height: 48px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 2.01px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 24.3px;
+    }
+
+    .about {
+        position: absolute;
+        top: 34.08px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 65.24px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 160.68px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 24.3px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 96.41px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .event {
+        position: absolute;
+        top: 128.54px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .home-parent {
+        position: absolute;
+        top: 2996.96px;
+        left: 62.78px;
+        width: 158.6px;
+        height: 185px;
+        font-size: 18px;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 3253px;
+        left: 30px;
+        font-size: 10px;
+        text-align: center;
+        display: inline-block;
+        width: 259px;
+        height: 64px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 2475.6px;
+        left: 27px;
+        width: 27px;
+        height: 29.7px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 2663.92px;
+        left: 28px;
+        width: 24px;
+        height: 26.4px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 2717.89px;
+        left: 28px;
+        width: 24px;
+        height: 26.4px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2896px;
+        left: 52px;
+        width: 300px;
+        height: 61px;
+        object-fit: cover;
+    }
+
+    .gallery-page {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        background-color: #00000000;
+        height: 3317px;
+        text-align: left;
+        font-size: 24px;
+        color: #fff;
+        font-family: Inter;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    * {
+        margin: 0;
+    }
+
+    .mobile-menu-container {
+        position: fixed;
+        top: 18px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .mobile-hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .mobile-hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .mobile-hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .mobile-hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .mobile-hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .mobile-menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .mobile-menu-overlay.open {
+        top: 0;
+    }
+
+    .mobile-menu-overlay ul {
+        list-style: none;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .mobile-menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .mobile-menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .mobile-menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+
+    }
+
+    .rectangle-group {
+        position: fixed;
+        background-color: #000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 15px;
+        left: 69px;
+        height: 28px;
+        object-fit: cover;
+    }
+
+    .mobile-version {
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    body {
+        background-color: #00000000;
+    }
+
+    .buy {
+        background-color: black;
+        border-radius: 16px;
+        font-size: 26px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        width: 120px;
+        height: 90px;
+        padding: 8px;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .buy:hover a {
+        color: rgb(255, 255, 255);
+        background-color: #ffffff00;
+
+    }
+
+    .buy:hover {
+        color: black;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+
+    }
+}
+
+body {
+    background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+    background-attachment: fixed;
+}
+
+@media (min-width:1303px) {
+    .desktop-version {
+        max-width: 1303px;
+        margin: 0 auto;
+    }
+}
+
+/* The scroll bar itself */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+}
+
+/* The track (background of the scrollbar) */
+::-webkit-scrollbar-track {
+    background: #000;
+    /* Color of the track */
+}
+
+/* The handle (scroll bar thumb) */
+::-webkit-scrollbar-thumb {
+    background-color: #291f20;
+    /* Color of the thumb */
+    border-radius: 6px;
+    /* Rounded corners for the thumb */
+}
+
+/* On hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #EB0028;
+    /* Color when hovering over the thumb */
+}

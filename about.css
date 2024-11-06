@@ -1,0 +1,1792 @@
+@media (min-width:1181px) and (max-width:1300px) {
+    .mobile-version {
+        display: none;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .home {
+        position: absolute;
+        top: 2769px;
+        left: 109px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71px;
+        height: 25px;
+    }
+
+    .about5 {
+        position: absolute;
+        top: 2800px;
+        left: 109px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71px;
+        height: 25px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 2834px;
+        left: 109px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 2866px;
+        left: 109px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .event {
+        position: absolute;
+        top: 2899px;
+        left: 109px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 2932px;
+        left: 109px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158px;
+        height: 25px;
+    }
+
+    .map {
+        position: absolute;
+        top: 2820px;
+        left: 826px;
+        font-size: 32px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 114px;
+        height: 43px;
+    }
+
+    a {
+        font-family: Inter;
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .what-is {
+        position: absolute;
+        top: 1023px;
+        left: 77px;
+        font-size: 64px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 624px;
+        height: 55px;
+    }
+
+    .what-is1 {
+        position: absolute;
+        top: 1466px;
+        left: 69px;
+        font-size: 64px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 624px;
+        height: 55px;
+    }
+
+    .what-is2 {
+        position: absolute;
+        top: 1972px;
+        left: 77px;
+        font-size: 64px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 806px;
+        height: 55px;
+    }
+
+    .what-is3 {
+        position: absolute;
+        top: 500px;
+        bottom: -10px;
+        bottom: 300px;
+        left: 297px;
+        font-size: 64px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 600px;
+        height: 55px;
+    }
+
+    .ted-stands-for {
+        font-family: Inter;
+        color: #fff;
+    }
+
+    .technology {
+        font-family: Inter;
+        color: #eb0028;
+    }
+
+    .it-is-a-non-profit-organizatio {
+        margin-bottom: 0px;
+    }
+
+    .ted-stands-for-technology-ent {
+        margin: 0;
+        font-size: inherit;
+        padding-left: 53px;
+    }
+
+    .ted-stands-for-technology-container {
+        position: absolute;
+        top: 1138px;
+        left: 120px;
+        font-size: 40px;
+        line-height: 60px;
+        display: inline-block;
+        width: 1031px;
+        height: 226px;
+    }
+
+    .tedx-is-an-independently-organ {
+        margin: 0;
+        font-family: inherit;
+        font-size: inherit;
+        padding-left: 53px;
+    }
+
+    .tedx-is-an-container {
+        position: absolute;
+        top: 1554px;
+        left: 119px;
+        font-size: 40px;
+        line-height: 60px;
+        display: inline-block;
+        width: 1063px;
+        height: 201px;
+    }
+
+    .tedx-gni-provides-container {
+        position: absolute;
+        top: 2087px;
+        left: 119px;
+        font-size: 40px;
+        line-height: 60px;
+        display: inline-block;
+        width: 998px;
+        height: 201px;
+    }
+
+    .logo-white-4-icon {
+        position: absolute;
+        top: 1441px;
+        left: 363px;
+        width: 198px;
+        height: 76px;
+        object-fit: cover;
+    }
+
+    .logo-white-5-icon {
+        position: absolute;
+        top: 1953px;
+        left: 376px;
+        width: 328px;
+        height: 73px;
+        object-fit: cover;
+    }
+
+    .logo-white-3-icon {
+        position: absolute;
+        top: 1002px;
+        left: 375px;
+        width: 155px;
+        height: 76px;
+        object-fit: cover;
+    }
+
+    .logo-white-7-icon {
+        position: absolute;
+        top: 596px;
+        left: 585px;
+        width: 190px;
+        height: 76px;
+        object-fit: cover;
+    }
+
+    .logo-white-6-icon {
+        position: absolute;
+        top: 494px;
+        left: 583px;
+        width: 149px;
+        height: 76px;
+        object-fit: cover;
+    }
+
+    .logo-white-8-icon {
+        position: absolute;
+        top: 705px;
+        left: 588px;
+        width: 316px;
+        height: 73px;
+        object-fit: cover;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2684px;
+        left: 77px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        font-size: 40px;
+        font-weight: 800;
+        display: inline-block;
+        width: 422px;
+        height: 38px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 75px;
+        left: 50px;
+        font-size: 32px;
+        display: inline-block;
+        width: 423px;
+        height: 47px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 252px;
+        left: 50px;
+        display: inline-block;
+        width: 288px;
+        height: 47px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 207px;
+        left: 52px;
+        color: inherit;
+        display: inline-block;
+        width: 246px;
+        height: 31px;
+        text-decoration: none;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 206px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 260px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 79px;
+        left: 2px;
+        width: 32px;
+        height: 31px;
+    }
+
+    .contact-info-parent {
+        position: absolute;
+        top: 2684px;
+        left: 646px;
+        width: 473px;
+        height: 299px;
+        font-size: 24px;
+    }
+
+    .group-child {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background-color: #000;
+        width: 1186.9px;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 12.98px;
+        left: 23.9px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .home1 {
+        position: absolute;
+        top: 20.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 20.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+    }
+
+    .about2 {
+        position: absolute;
+        top: 19.61px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+    }
+
+    .sponsor1 {
+        position: absolute;
+        top: 20px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+    }
+
+    .contact-us1 {
+        position: absolute;
+        top: 21px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 20px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 20px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+    }
+
+    .register-now {
+        position: absolute;
+        top: 13px;
+        left: 999.33px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 200.7px;
+        height: 23px;
+    }
+
+    .rectangle-parent {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        font-size: 20px;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 3023px;
+        left: -5px;
+        right: 70px;
+        font-size: 16px;
+        text-align: center;
+        display: inline-block;
+        width: 100%;
+        height: 58px;
+    }
+
+    .about-page {
+        width: 100%;
+        position: relative;
+        background-color: #01000000;
+        height: 100%;
+        text-align: left;
+        font-size: 18px;
+        color: #fff;
+        font-family: Inter;
+    }
+
+    * {
+        padding: 0px;
+        margin: 0px;
+        background-color: #00000000;
+    }
+
+    .home1 {
+        position: absolute;
+        top: 17.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+        font-size: 18px
+    }
+
+    .home1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        color: #EB0028;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 17.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .speakers1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        color: #EB0028;
+    }
+
+    .about {
+        width: 463px;
+        top: 200px;
+        left: 780px;
+        position: relative;
+        font-size: 128px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        color: #ffffff;
+        text-align: left;
+        display: inline-block;
+        height: 55px;
+        text-shadow: 1px 0 0 #ffffff, 0 1px 0 #ffffff, -1px 0 0 #ffffff, 0 -1px 0 #ffffff;
+        opacity: 0.54;
+    }
+
+    .about1 {
+        position: absolute;
+        top: 17.06px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .about1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        color: #EB0028;
+    }
+
+    .sponsor1 {
+        position: absolute;
+        top: 17.06px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+        font-size: 18px
+    }
+
+    .sponsor1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        color: #EB0028;
+    }
+
+    .contact-us1 {
+        position: absolute;
+        top: 17.06px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+        font-size: 18px
+    }
+
+    .contact-us1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        color: #EB0028;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 17.06px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .event1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        color: #EB0028;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 17.06px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+        font-size: 18px;
+        background-color: transparent;
+    }
+
+    .gallery:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        color: #EB0028;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        background-color: #000;
+    }
+
+    .button {
+        cursor: pointer;
+        position: relative;
+        bottom: 5px;
+        padding: 10px 24px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        border: 2px solid rgb(237, 18, 18);
+        border-radius: 34px;
+        background-color: transparent;
+        font-weight: 600;
+        transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+        overflow: hidden;
+    }
+
+    .button::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        width: 50px;
+        height: 50px;
+        border-radius: inherit;
+        scale: 0;
+        z-index: -1;
+        background-color: rgb(255, 255, 255);
+        transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+    }
+
+    .button:hover::before {
+        scale: 3;
+    }
+
+    .button:hover {
+        color: #c41515;
+        scale: 1.1;
+        box-shadow: 0 0px 22px rgba(255, 255, 255, 0.4);
+    }
+
+    .button:active {
+        scale: 2;
+    }
+}
+
+@media (min-width:768px) and (max-width:1180px) {
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    body {
+        background-color: #000;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .about {
+        position: absolute;
+        top: 241px;
+        left: 379px;
+        font-size: 96px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 325px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .what-is {
+        position: absolute;
+        top: 1021px;
+        left: 51px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 624px;
+        height: 55px;
+    }
+
+    .what-is1 {
+        position: absolute;
+        top: 1534px;
+        left: 45px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 624px;
+        height: 55px;
+    }
+
+    .what-is2 {
+        position: absolute;
+        top: 2061px;
+        left: 45px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 806px;
+        height: 55px;
+    }
+
+    .what-is3 {
+        position: absolute;
+        top: 535px;
+        left: 77px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 625px;
+        height: 50px;
+    }
+
+    .ted-stands-for {
+        font-family: Inter;
+        color: #fff;
+    }
+
+    .technology {
+        font-family: Inter;
+        color: #eb0028;
+    }
+
+    .it-is-a-non-profit-organizatio {
+        margin-bottom: 0px;
+    }
+
+    .ted-stands-for-technology-ent {
+        margin: 0;
+        font-size: inherit;
+        padding-left: 43px;
+    }
+
+    .ted-stands-for-technology-container {
+        position: absolute;
+        top: 1097px;
+        left: 83px;
+        font-size: 30px;
+        line-height: 50px;
+        display: inline-block;
+        width: 626px;
+        height: 226px;
+    }
+
+    .tedx-is-an-independently-organ {
+        margin: 0;
+        font-family: inherit;
+        font-size: inherit;
+        padding-left: 43px;
+    }
+
+    .tedx-is-an-container {
+        position: absolute;
+        top: 1618px;
+        left: 85px;
+        font-size: 30px;
+        line-height: 50px;
+        display: inline-block;
+        width: 616px;
+        height: 201px;
+    }
+
+    .tedx-gni-provides-container {
+        position: absolute;
+        top: 2164px;
+        left: 65px;
+        font-size: 30px;
+        line-height: 50px;
+        display: inline-block;
+        width: 649px;
+        height: 399px;
+    }
+
+    .logo-white-4-icon {
+        position: absolute;
+        top: 1509px;
+        left: 339px;
+        width: 198px;
+        height: 76px;
+        object-fit: cover;
+    }
+
+    .logo-white-5-icon {
+        position: absolute;
+        top: 2043px;
+        left: 339px;
+        width: 328px;
+        height: 73px;
+        object-fit: cover;
+    }
+
+    .logo-white-3-icon {
+        position: absolute;
+        top: 1000px;
+        left: 349px;
+        width: 155px;
+        height: 76px;
+        object-fit: cover;
+    }
+
+    .logo-white-7-icon {
+        position: absolute;
+        top: 612px;
+        left: 377px;
+        width: 198px;
+        height: 70px;
+        object-fit: cover;
+    }
+
+    .logo-white-6-icon {
+        position: absolute;
+        top: 518px;
+        left: 375px;
+        width: 155px;
+        height: 70px;
+        object-fit: cover;
+    }
+
+    .logo-white-8-icon {
+        position: absolute;
+        top: 712px;
+        left: 380px;
+        width: 329px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .copyrights-2024-tedx {
+        margin: 0;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 262px;
+        left: 0px;
+        font-size: 12px;
+        text-align: center;
+        display: inline-block;
+        width: 1404px;
+        height: 58px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 425.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 25px;
+    }
+
+    .about1 {
+        position: absolute;
+        top: 35px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 67px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 165px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 25px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 99px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .event {
+        position: absolute;
+        top: 132px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .copyrights-2024-tedx-gni-all-parent {
+        position: absolute;
+        top: 3255px;
+        left: -318px;
+        width: 1404px;
+        height: 320px;
+        font-size: 18px;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 2811px;
+        left: 166px;
+        font-size: 32px;
+        display: inline-block;
+        width: 434px;
+        height: 44px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 2990px;
+        left: 166px;
+        font-size: 24px;
+        font-weight: 600;
+        display: inline-block;
+        width: 295px;
+        height: 44px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 2940px;
+        left: 166px;
+        font-size: 24px;
+        text-decoration: underline;
+        font-weight: 600;
+        color: inherit;
+        display: inline-block;
+        width: 252px;
+        height: 28px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 2716px;
+        left: 102px;
+        font-size: 48px;
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 376px;
+        height: 36px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 2990px;
+        left: 105px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 2940px;
+        left: 106px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 2819px;
+        left: 106px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 3159px;
+        left: 72px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .about-page {
+        width: 100%;
+        position: relative;
+        height: 3575px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 64px;
+        color: #fff;
+        font-family: Inter;
+    }
+
+    * {
+        margin: 0px;
+        line-height: normal;
+    }
+
+    body {
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-size: cover;
+        /* Ensures the image covers the entire screen */
+        background-position: center center;
+        /* Centers the image */
+        background-repeat: no-repeat;
+        /* Prevents repeating */
+        background-attachment: fixed;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        background-color: rgb(0, 0, 0);
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+        align-content: center;
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+
+
+    .menu-container {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .menu-overlay.open {
+        top: 0;
+    }
+
+    .menu-overlay ul {
+        list-style: none;
+        text-align: center;
+    }
+
+    .menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    .glow-on-hover {
+        width: 120px;
+        left: 600px;
+        bottom: 26px;
+        height: 40px;
+        border: none;
+        outline: none;
+        color: #fff;
+        background: #111;
+        cursor: pointer;
+        position: relative;
+        z-index: 0;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:before {
+        content: '';
+        background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+        position: absolute;
+        top: -2px;
+        left: -2px;
+        background-size: 400%;
+        z-index: -1;
+        filter: blur(5px);
+        width: calc(100% + 4px);
+        height: calc(100% + 4px);
+        animation: glowing 20s linear infinite;
+        opacity: 0;
+        transition: opacity .3s ease-in-out;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:active {
+        color: #000
+    }
+
+    .glow-on-hover:active:after {
+        background: transparent;
+    }
+
+    .glow-on-hover:hover:before {
+        opacity: 1;
+    }
+
+    .glow-on-hover:after {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #eb0027a1;
+        left: 0;
+        top: 0;
+        border-radius: 10px;
+    }
+
+    @keyframes glowing {
+        0% {
+            background-position: 0 0;
+        }
+
+        50% {
+            background-position: 400% 0;
+        }
+
+        100% {
+            background-position: 0 0;
+        }
+    }
+
+    .tablet-version {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width:200px) and (max-width:767.5px) {
+    .buy {
+        background-color: black;
+        border-radius: 16px;
+        font-size: 26px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        width: 120px;
+        height: 90px;
+        padding: 8px;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .buy:hover a {
+        color: rgb(255, 255, 255);
+        background-color: #ffffff00;
+
+    }
+
+    .buy:hover {
+        color: black;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .about {
+        position: absolute;
+        top: 119px;
+        left: 137px;
+        font-size: 48px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 165px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .what-is {
+        position: absolute;
+        top: 483px;
+        left: 22px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 624px;
+        height: 50px;
+    }
+
+    .what-is1 {
+        position: absolute;
+        top: 239px;
+        left: 28px;
+        font-size: 32px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 243px;
+        height: 40px;
+    }
+
+    .ted-stands-for {
+        font-family: Inter;
+        color: #fff;
+    }
+
+    .technology {
+        font-family: Inter;
+        color: #eb0028;
+    }
+
+    .it-is-a-non-profit-organizatio {
+        margin-bottom: 0px;
+    }
+
+    .ted-stands-for-technology-ent {
+        margin: 0;
+        font-size: inherit;
+        padding-left: 21px;
+    }
+
+    .ted-stands-for-technology-container {
+        position: absolute;
+        top: 554px;
+        left: 28px;
+        font-size: 16px;
+        line-height: 25px;
+        display: inline-block;
+        width: 282px;
+    }
+
+    .tedx-is-an-independently-organ {
+        margin: 0;
+        font-family: inherit;
+        font-size: inherit;
+        padding-left: 21px;
+    }
+
+    .tedx-is-an-container {
+        position: absolute;
+        top: 868px;
+        left: 22px;
+        font-size: 16px;
+        line-height: 25px;
+        display: inline-block;
+        width: 288px;
+    }
+
+    .tedx-gni-provides-container {
+        position: absolute;
+        top: 1233px;
+        left: 22px;
+        font-size: 16px;
+        line-height: 25px;
+        display: inline-block;
+        width: 276px;
+        height: 101px;
+    }
+
+    .logo-white-7-icon {
+        position: absolute;
+        top: 276px;
+        left: 172px;
+        width: 81px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .logo-white-6-icon {
+        position: absolute;
+        top: 243px;
+        left: 170px;
+        width: 67px;
+        height: 31px;
+        object-fit: cover;
+    }
+
+    .logo-white-9-icon {
+        position: absolute;
+        top: 482px;
+        left: 180px;
+        width: 89px;
+        height: 44px;
+        object-fit: cover;
+    }
+
+    .what-is2 {
+        position: absolute;
+        top: 800px;
+        left: 22px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 624px;
+        height: 50px;
+    }
+
+    .logo-white-10-icon {
+        position: absolute;
+        top: 797px;
+        left: 180px;
+        width: 107px;
+        height: 44px;
+        object-fit: cover;
+    }
+
+    .p {
+        margin: 0;
+        white-space: pre-wrap;
+    }
+
+    .p1 {
+        margin: 0;
+        white-space: pre-wrap;
+        left: 200px;
+        top: 50px;
+    }
+
+    .what-is-container {
+        position: absolute;
+        top: 1102px;
+        left: 22px;
+        line-height: 59px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 247px;
+        height: 103px;
+    }
+
+    .logo-white-11-icon {
+        position: absolute;
+        top: 1161px;
+        left: 29px;
+        width: 205px;
+        height: 44px;
+        object-fit: cover;
+    }
+
+    .logo-white-8-icon {
+        position: absolute;
+        top: 308px;
+        left: 171.5px;
+        width: 140px;
+        height: 32px;
+        object-fit: cover;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 1789px;
+        left: 21px;
+        font-size: 39px;
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 300px;
+        height: 35px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 1862px;
+        left: 61px;
+        font-size: 24px;
+        display: inline-block;
+        width: 249px;
+        height: 145px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 2031px;
+        left: 61px;
+        font-size: 24px;
+        text-decoration: underline;
+        font-weight: 600;
+        color: inherit;
+        display: inline-block;
+        width: 249px;
+        height: 27px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 2082px;
+        left: 61px;
+        font-size: 24px;
+        font-weight: 600;
+        display: inline-block;
+        width: 200px;
+        height: 44px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 2.01px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 22.1px;
+    }
+
+    .about1 {
+        position: absolute;
+        top: 30.95px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 59.24px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 145.89px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 22.1px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 87.54px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .event {
+        position: absolute;
+        top: 116.72px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .home-parent {
+        position: absolute;
+        top: 2337.4px;
+        left: 57.78px;
+        width: 158.6px;
+        height: 168px;
+        font-size: 18px;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 2570px;
+        left: 25px;
+        font-size: 10px;
+        text-align: center;
+        display: inline-block;
+        width: 259px;
+        height: 58px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 1864px;
+        left: 22px;
+        width: 27px;
+        height: 27px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 2035px;
+        left: 23px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 2084px;
+        left: 23px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2246px;
+        left: 47px;
+        width: 200px;
+        height: 55px;
+        object-fit: cover;
+    }
+
+    .about-page {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        background-color: #01000000;
+        height: 2628px;
+        text-align: left;
+        font-size: 36px;
+        color: #fff;
+        font-family: Inter;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    * {
+        margin: 0px;
+    }
+
+    .mobile-menu-container {
+        position: fixed;
+        top: 18px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .mobile-hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .mobile-hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .mobile-hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .mobile-hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .mobile-hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .mobile-menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .mobile-menu-overlay.open {
+        top: 0;
+    }
+
+    .mobile-menu-overlay ul {
+        list-style: none;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .mobile-menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .mobile-menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .mobile-menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+
+    }
+
+    .rectangle-group {
+        position: fixed;
+        background-color: #000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 15px;
+        left: 69px;
+        height: 28px;
+        object-fit: cover;
+    }
+
+    .mobile-version {
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    body {
+        background-color: #00000000;
+    }
+}
+
+body {
+    background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+    background-attachment: fixed;
+}
+
+@media (min-width:1303px) {
+    .desktop-version {
+        max-width: 1303px;
+        margin: 0 auto;
+    }
+}
+
+/* The scroll bar itself */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+}
+
+/* The track (background of the scrollbar) */
+::-webkit-scrollbar-track {
+    background: #000;
+    /* Color of the track */
+}
+
+/* The handle (scroll bar thumb) */
+::-webkit-scrollbar-thumb {
+    background-color: #291f20;
+    /* Color of the thumb */
+    border-radius: 6px;
+    /* Rounded corners for the thumb */
+}
+
+/* On hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #EB0028;
+    /* Color when hovering over the thumb */
+}

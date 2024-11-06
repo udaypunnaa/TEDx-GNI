@@ -1,0 +1,2924 @@
+@media (min-width:1181px) and (max-width:1300px) {
+    .mobile-version {
+        display: none;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .event-page-child {
+        position: absolute;
+        top: 2148px;
+        left: 117px;
+        border-radius: 27px;
+        background-color: #d9d9d9;
+        width: 513px;
+        height: 300px;
+    }
+
+    .event {
+        position: absolute;
+        top: 258px;
+        left: 320px;
+        font-size: 128px;
+        line-height: 50px;
+        text-align: right;
+        display: inline-block;
+        width: 752px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .event-page-item {
+        position: absolute;
+        top: 467px;
+        left: 565px;
+        background-color: #eb002700;
+        width: 7px;
+        height: 67px;
+    }
+
+    .what-is {
+        position: absolute;
+        top: 1021px;
+        left: 150px;
+        line-height: 50px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 1000px;
+        height: 55px;
+        font-size: 50px;
+    }
+
+    .introduction {
+        position: absolute;
+        top: 486px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .am-900 {
+        position: absolute;
+        top: 482px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9001 {
+        position: absolute;
+        top: 571px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9002 {
+        position: absolute;
+        top: 666px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9003 {
+        position: absolute;
+        top: 758px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9004 {
+        position: absolute;
+        top: 854px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9005 {
+        position: absolute;
+        top: 951px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9006 {
+        position: absolute;
+        top: 1056px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9007 {
+        position: absolute;
+        top: 1145px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9008 {
+        position: absolute;
+        top: 1240px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-9009 {
+        position: absolute;
+        top: 1332px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-90010 {
+        position: absolute;
+        top: 1428px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .am-90011 {
+        position: absolute;
+        top: 1525px;
+        left: 247px;
+        line-height: 30px;
+        display: inline-block;
+        width: 288px;
+        height: 29px;
+    }
+
+    .event-page-inner {
+        position: absolute;
+        top: 562px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.95);
+        width: 7px;
+        height: 67px;
+    }
+
+    .rectangle-div {
+        position: absolute;
+        top: 657px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.9);
+        width: 7px;
+        height: 67px;
+    }
+
+    .introduction1 {
+        position: absolute;
+        top: 676px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .event-page-child1 {
+        position: absolute;
+        top: 752px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.85);
+        width: 7px;
+        height: 67px;
+    }
+
+    .introduction2 {
+        position: absolute;
+        top: 771px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .event-page-child2 {
+        position: absolute;
+        top: 847px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.8);
+        width: 7px;
+        height: 67px;
+    }
+
+    .introduction4 {
+        position: absolute;
+        top: 866px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .event-page-child3 {
+        position: absolute;
+        top: 942px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.75);
+        width: 7px;
+        height: 67px;
+    }
+
+    .introduction5 {
+        position: absolute;
+        top: 961px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .event-page-child4 {
+        position: absolute;
+        top: 1037px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.7);
+        width: 7px;
+        height: 67px;
+    }
+
+    .introduction6 {
+        position: absolute;
+        top: 1056px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .event-page-child5 {
+        position: absolute;
+        top: 1132px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.65);
+        width: 7px;
+        height: 67px;
+    }
+
+    .event-page-child6 {
+        position: absolute;
+        top: 1231px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.6);
+        width: 7px;
+        height: 67px;
+    }
+
+    .event-page-child7 {
+        position: absolute;
+        top: 1326px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.55);
+        width: 7px;
+        height: 67px;
+    }
+
+    .event-page-child8 {
+        position: absolute;
+        top: 1421px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.5);
+        width: 7px;
+        height: 67px;
+    }
+
+    .event-page-child9 {
+        position: absolute;
+        top: 1516px;
+        left: 565px;
+        background-color: rgba(235, 0, 40, 0.45);
+        width: 7px;
+        height: 67px;
+        opacity: 0.45;
+    }
+
+    .introduction7 {
+        position: absolute;
+        top: 1151px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .introduction8 {
+        position: absolute;
+        top: 1535px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .introduction9 {
+        position: absolute;
+        top: 1440px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .introduction10 {
+        position: absolute;
+        top: 1246px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .introduction11 {
+        position: absolute;
+        top: 1341px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .introduction12 {
+        position: absolute;
+        top: 581px;
+        left: 719px;
+        line-height: 30px;
+        display: inline-block;
+        width: 261px;
+        height: 29px;
+    }
+
+    .event-page-child10 {
+        position: absolute;
+        top: 469px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child11 {
+        position: absolute;
+        top: 564px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child12 {
+        position: absolute;
+        top: 659px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child13 {
+        position: absolute;
+        top: 754px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child14 {
+        position: absolute;
+        top: 850px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child15 {
+        position: absolute;
+        top: 1134px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child16 {
+        position: absolute;
+        top: 1038px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child17 {
+        position: absolute;
+        top: 944px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child18 {
+        position: absolute;
+        top: 1040px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child19 {
+        position: absolute;
+        top: 1135px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child20 {
+        position: absolute;
+        top: 1231px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child21 {
+        position: absolute;
+        top: 1515px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child22 {
+        position: absolute;
+        top: 1419px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .event-page-child23 {
+        position: absolute;
+        top: 1325px;
+        left: 608px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 66px;
+        height: 65px;
+    }
+
+    .copy-of-theme-tedxgni-2024-1-icon {
+        position: absolute;
+        top: 1700px;
+        left: 670px;
+        width: 331px;
+        height: 358px;
+        object-fit: cover;
+    }
+
+    .date {
+        position: absolute;
+        top: 1879px;
+        left: 232px;
+        font-size: 128px;
+        line-height: 30px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 333px;
+        height: 134px;
+    }
+
+    .venue {
+        position: absolute;
+        top: 2278px;
+        left: 685px;
+        font-size: 128px;
+        line-height: 30px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 445px;
+        height: 107px;
+    }
+
+    .group-child {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background-color: #000;
+        width: 1186.9px;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 12.98px;
+        left: 23.9px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .home {
+        position: absolute;
+        top: 20.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 20.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+    }
+
+    .about {
+        position: absolute;
+        top: 19.61px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 20px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 21px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 20px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+    }
+
+    .register-now {
+        position: absolute;
+        top: 13px;
+        left: 999.33px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 200.7px;
+        height: 23px;
+    }
+
+    .rectangle-parent {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        text-align: left;
+        font-size: 20px;
+        font-family: Inter;
+    }
+
+    .home1 {
+        position: absolute;
+        top: 2745px;
+        left: 149px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 71px;
+        height: 25px;
+    }
+
+    .about1 {
+        position: absolute;
+        top: 2778px;
+        left: 149px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 2810px;
+        left: 149px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .sponsor1 {
+        position: absolute;
+        top: 2842px;
+        left: 149px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .event2 {
+        position: absolute;
+        top: 2875px;
+        left: 149px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .contact-us1 {
+        position: absolute;
+        top: 2908px;
+        left: 149px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 158px;
+        height: 25px;
+    }
+
+    .map {
+        position: absolute;
+        top: 2796px;
+        left: 866px;
+        font-weight: 600;
+        font-family: Inter;
+        color: #000;
+        text-align: left;
+        display: inline-block;
+        width: 114px;
+        height: 43px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2660px;
+        left: 117px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        font-size: 40px;
+        font-weight: 800;
+        display: inline-block;
+        width: 422px;
+        height: 38px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 75px;
+        left: 50px;
+        font-size: 32px;
+        display: inline-block;
+        width: 423px;
+        height: 47px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 252px;
+        left: 50px;
+        display: inline-block;
+        width: 288px;
+        height: 47px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 207px;
+        left: 52px;
+        color: inherit;
+        display: inline-block;
+        width: 246px;
+        height: 31px;
+        text-decoration: none;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 206px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 260px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 79px;
+        left: 2px;
+        width: 32px;
+        height: 31px;
+    }
+
+    .contact-info-parent {
+        position: absolute;
+        top: 2660px;
+        left: 686px;
+        width: 473px;
+        height: 299px;
+        text-align: left;
+        font-size: 24px;
+        font-family: Inter;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 2999px;
+        left: -59px;
+        font-size: 16px;
+        font-family: Inter;
+        display: inline-block;
+        width: 1399px;
+        height: 58px;
+    }
+
+    .event-page {
+        width: 100%;
+        position: relative;
+        background-color: #00000000;
+        height: 3072px;
+        text-align: center;
+        font-size: 32px;
+        color: #fff;
+        font-family: 'Lao Muang Don';
+    }
+
+    * {
+        margin: 0px;
+    }
+
+    .home {
+        position: absolute;
+        top: 17.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+        font-size: 18px;
+    }
+
+    .home:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 17.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .speakers:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .about {
+        position: absolute;
+        top: 17.06px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .about:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 17.06px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .sponsor:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 17.06px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .contact-us:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 17.06px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .event1:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 17.06px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+        font-size: 18px;
+    }
+
+    .gallery:hover {
+        text-decoration: overline;
+        font-size: 20px;
+        text-decoration-color: #EB0028;
+    }
+
+    .event {
+        width: 752px;
+        position: relative;
+        font-size: 128px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        color: #fff;
+        text-align: center;
+        display: inline-block;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        background-color: #000;
+    }
+
+    html {
+        width: 100%;
+        background-color: #000;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .button {
+        cursor: pointer;
+        position: relative;
+        bottom: 5px;
+        padding: 10px 24px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        border: 2px solid rgb(237, 18, 18);
+        border-radius: 34px;
+        background-color: transparent;
+        font-weight: 600;
+        transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+        overflow: hidden;
+    }
+
+    .button::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        width: 50px;
+        height: 50px;
+        border-radius: inherit;
+        scale: 0;
+        z-index: -1;
+        background-color: rgb(255, 255, 255);
+        transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+    }
+
+    .button:hover::before {
+        scale: 3;
+    }
+
+    .button:hover {
+        color: #c41515;
+        scale: 1.1;
+        box-shadow: 0 0px 22px rgba(255, 255, 255, 0.4);
+    }
+
+    .button:active {
+        scale: 2;
+    }
+}
+
+@media (min-width:768px) and (max-width:1180px) {
+    .glow-on-hover {
+        width: 120px;
+        left: 600px;
+        height: 40px;
+        border: none;
+        outline: none;
+        color: #fff;
+        background: #111;
+        cursor: pointer;
+        position: relative;
+        z-index: 0;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:before {
+        content: '';
+        background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+        position: absolute;
+        top: -2px;
+        left: -2px;
+        background-size: 400%;
+        z-index: -1;
+        filter: blur(5px);
+        width: calc(100% + 4px);
+        height: calc(100% + 4px);
+        animation: glowing 20s linear infinite;
+        opacity: 0;
+        transition: opacity .3s ease-in-out;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:active {
+        color: #000
+    }
+
+    .glow-on-hover:active:after {
+        background: transparent;
+    }
+
+    .glow-on-hover:hover:before {
+        opacity: 1;
+    }
+
+    .glow-on-hover:after {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #eb0027a1;
+        left: 0;
+        top: 0;
+        border-radius: 10px;
+    }
+
+    .what-is {
+        position: absolute;
+        top: 1021px;
+        left: 51px;
+        line-height: 50px;
+        display: inline-block;
+        font-size: larger;
+        font-family: 'Microsoft Tai Le';
+        white-space: pre-wrap;
+        width: 624px;
+        height: 55px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 4455px;
+        left: 102px;
+        width: 32.9px;
+        height: 29px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .event-page-child {
+        position: absolute;
+        top: 1931px;
+        left: 62px;
+        border-radius: 27px;
+        background-color: #d9d9d9;
+        width: 314px;
+        height: 209px;
+    }
+
+    .event {
+        position: absolute;
+        top: 231px;
+        left: 383px;
+        font-size: 96px;
+        line-height: 50px;
+        text-align: right;
+        display: inline-block;
+        width: 303px;
+        opacity: 0.54;
+    }
+
+    .event-page-item {
+        position: absolute;
+        top: 430.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction {
+        position: absolute;
+        top: 437px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-900 {
+        position: absolute;
+        top: 436px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-inner {
+        position: absolute;
+        top: 427px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .rectangle-icon {
+        position: absolute;
+        top: 500.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction1 {
+        position: absolute;
+        top: 507px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9001 {
+        position: absolute;
+        top: 506px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .rectangle-div {
+        position: absolute;
+        top: 497px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child1 {
+        position: absolute;
+        top: 574.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction2 {
+        position: absolute;
+        top: 581px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9002 {
+        position: absolute;
+        top: 580px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child2 {
+        position: absolute;
+        top: 571px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child3 {
+        position: absolute;
+        top: 644.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction3 {
+        position: absolute;
+        top: 651px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9003 {
+        position: absolute;
+        top: 650px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child4 {
+        position: absolute;
+        top: 641px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child5 {
+        position: absolute;
+        top: 718.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction4 {
+        position: absolute;
+        top: 725px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9004 {
+        position: absolute;
+        top: 724px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child6 {
+        position: absolute;
+        top: 715px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child7 {
+        position: absolute;
+        top: 788.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction5 {
+        position: absolute;
+        top: 795px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9005 {
+        position: absolute;
+        top: 794px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child8 {
+        position: absolute;
+        top: 785px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child9 {
+        position: absolute;
+        top: 862.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction6 {
+        position: absolute;
+        top: 869px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9006 {
+        position: absolute;
+        top: 868px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child10 {
+        position: absolute;
+        top: 859px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child11 {
+        position: absolute;
+        top: 932.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction7 {
+        position: absolute;
+        top: 939px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9007 {
+        position: absolute;
+        top: 938px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child12 {
+        position: absolute;
+        top: 929px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child13 {
+        position: absolute;
+        top: 1005.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction8 {
+        position: absolute;
+        top: 1012px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9008 {
+        position: absolute;
+        top: 1011px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child14 {
+        position: absolute;
+        top: 1002px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child15 {
+        position: absolute;
+        top: 1075.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction9 {
+        position: absolute;
+        top: 1082px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-9009 {
+        position: absolute;
+        top: 1081px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child16 {
+        position: absolute;
+        top: 1072px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child17 {
+        position: absolute;
+        top: 1149.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction10 {
+        position: absolute;
+        top: 1156px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-90010 {
+        position: absolute;
+        top: 1155px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child18 {
+        position: absolute;
+        top: 1146px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child19 {
+        position: absolute;
+        top: 1219.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction11 {
+        position: absolute;
+        top: 1226px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-90011 {
+        position: absolute;
+        top: 1225px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child20 {
+        position: absolute;
+        top: 1216px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child21 {
+        position: absolute;
+        top: 1293.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction12 {
+        position: absolute;
+        top: 1300px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-90012 {
+        position: absolute;
+        top: 1299px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child22 {
+        position: absolute;
+        top: 1290px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .event-page-child23 {
+        position: absolute;
+        top: 1363.5px;
+        left: 352px;
+        width: 7px;
+        height: 46px;
+    }
+
+    .introduction13 {
+        position: absolute;
+        top: 1370px;
+        left: 439px;
+        line-height: 30px;
+        display: inline-block;
+        width: 248px;
+        height: 23px;
+    }
+
+    .am-90013 {
+        position: absolute;
+        top: 1369px;
+        left: 83px;
+        line-height: 30px;
+        display: inline-block;
+        width: 274px;
+        height: 24px;
+    }
+
+    .event-page-child24 {
+        position: absolute;
+        top: 1360px;
+        left: 387px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 55px;
+        height: 53px;
+    }
+
+    .copy-of-theme-tedxgni-2024-1-icon {
+        position: absolute;
+        top: 1523px;
+        left: 372px;
+        width: 331px;
+        height: 358px;
+        object-fit: cover;
+    }
+
+    .date {
+        position: absolute;
+        top: 1662px;
+        left: 42px;
+        font-size: 96px;
+        line-height: 30px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 333px;
+        height: 93px;
+    }
+
+    .venue {
+        position: absolute;
+        top: 1998px;
+        left: 349px;
+        font-size: 96px;
+        line-height: 30px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 445px;
+        height: 69px;
+    }
+
+    .copyrights-2024-tedx {
+        margin: 0;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 262px;
+        left: 0px;
+        font-size: 12px;
+        text-align: center;
+        display: inline-block;
+        width: 1404px;
+        height: 58px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 425.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 25px;
+    }
+
+    .about {
+        position: absolute;
+        top: 35px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 67px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 165px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 25px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 99px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 132px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .copyrights-2024-tedx-gni-all-parent {
+        position: absolute;
+        top: 2856px;
+        left: -318px;
+        width: 1404px;
+        height: 320px;
+        text-align: left;
+        font-size: 18px;
+        font-family: Inter;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 2412px;
+        left: 166px;
+        font-size: 32px;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 434px;
+        height: 44px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 2591px;
+        left: 166px;
+        font-weight: 600;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 295px;
+        height: 44px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 2541px;
+        left: 166px;
+        text-decoration: underline;
+        font-weight: 600;
+        font-family: Inter;
+        color: inherit;
+        text-align: left;
+        display: inline-block;
+        width: 252px;
+        height: 28px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 2317px;
+        left: 102px;
+        font-size: 48px;
+        font-family: 'Jersey 20';
+        text-align: left;
+        display: inline-block;
+        width: 376px;
+        height: 36px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2760px;
+        left: 72px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 2593px;
+        left: 106px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon1 {
+        position: absolute;
+        top: 2543px;
+        left: 110px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon2 {
+        position: absolute;
+        top: 2422px;
+        left: 110px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .event-page {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        background-color: #00000000;
+        height: 3167px;
+        text-align: center;
+        font-size: 24px;
+        color: #fff;
+        font-family: 'Lao Muang Don';
+    }
+
+    * {
+        margin: 0;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+        align-content: center;
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+
+
+    .menu-container {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .menu-overlay.open {
+        top: 0;
+    }
+
+    .menu-overlay ul {
+        list-style: none;
+        text-align: center;
+    }
+
+    .menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 15px;
+        left: 69px;
+        height: 28px;
+        object-fit: cover;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        background-color: #000;
+        height: 59px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .tablet-version {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+
+
+
+}
+
+@media (min-width:200px) and (max-width:767.5px) {
+    .buy {
+        background-color: black;
+        border-radius: 16px;
+        font-size: 26px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        width: 150px;
+        height: 70px;
+        padding: 8px;
+        left: 90px;
+    }
+
+    .buy:hover a {
+        color: rgb(255, 255, 255);
+        background-color: #ffffff00;
+
+    }
+
+    .buy:hover {
+        color: black;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .what-is {
+        position: absolute;
+        top: 480px;
+        left: 10px;
+        right: 50px;
+        line-height: 20px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 290px;
+        height: 55px;
+        font-size: large;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .event-page-child {
+        position: absolute;
+        top: 1403px;
+        left: 33px;
+        border-radius: 27px;
+        width: 255px;
+        height: 162px;
+    }
+
+    .event {
+        position: absolute;
+        top: 123px;
+        left: 140px;
+        font-size: 48px;
+        line-height: 50px;
+        text-align: right;
+        display: inline-block;
+        width: 147px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .event-page-item {
+        position: absolute;
+        top: 223px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction {
+        position: absolute;
+        top: 231px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-900 {
+        position: absolute;
+        top: 231px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-inner {
+        position: absolute;
+        top: 223px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .rectangle-div {
+        position: absolute;
+        top: 256px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction1 {
+        position: absolute;
+        top: 264px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-9001 {
+        position: absolute;
+        top: 264px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child1 {
+        position: absolute;
+        top: 256px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child2 {
+        position: absolute;
+        top: 289px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction2 {
+        position: absolute;
+        top: 297px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-9002 {
+        position: absolute;
+        top: 297px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child3 {
+        position: absolute;
+        top: 289px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child10 {
+        position: absolute;
+        top: 324px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction6 {
+        position: absolute;
+        top: 332px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-9006 {
+        position: absolute;
+        top: 332px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child11 {
+        position: absolute;
+        top: 324px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child12 {
+        position: absolute;
+        top: 357px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction7 {
+        position: absolute;
+        top: 365px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-9007 {
+        position: absolute;
+        top: 365px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child13 {
+        position: absolute;
+        top: 357px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child14 {
+        position: absolute;
+        top: 390px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction8 {
+        position: absolute;
+        top: 398px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-9008 {
+        position: absolute;
+        top: 398px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child15 {
+        position: absolute;
+        top: 390px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child16 {
+        position: absolute;
+        top: 423px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction9 {
+        position: absolute;
+        top: 431px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-9009 {
+        position: absolute;
+        top: 431px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child17 {
+        position: absolute;
+        top: 423px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child18 {
+        position: absolute;
+        top: 456px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction10 {
+        position: absolute;
+        top: 464px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-90010 {
+        position: absolute;
+        top: 464px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child19 {
+        position: absolute;
+        top: 456px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child20 {
+        position: absolute;
+        top: 489px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction11 {
+        position: absolute;
+        top: 497px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-90011 {
+        position: absolute;
+        top: 497px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child21 {
+        position: absolute;
+        top: 489px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child28 {
+        position: absolute;
+        top: 524px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction15 {
+        position: absolute;
+        top: 532px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-90015 {
+        position: absolute;
+        top: 532px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child29 {
+        position: absolute;
+        top: 524px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child30 {
+        position: absolute;
+        top: 557px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction16 {
+        position: absolute;
+        top: 565px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-90016 {
+        position: absolute;
+        top: 565px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child31 {
+        position: absolute;
+        top: 557px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .event-page-child32 {
+        position: absolute;
+        top: 590px;
+        left: 150px;
+        background-color: #eb0028;
+        width: 2px;
+        height: 25px;
+    }
+
+    .introduction17 {
+        position: absolute;
+        top: 598px;
+        left: 194px;
+        line-height: 30px;
+        display: inline-block;
+        width: 108px;
+        height: 15px;
+    }
+
+    .am-90017 {
+        position: absolute;
+        top: 598px;
+        left: 21px;
+        line-height: 30px;
+    }
+
+    .event-page-child33 {
+        position: absolute;
+        top: 590px;
+        left: 159px;
+        border-radius: 32.5px;
+        background-color: #d9d9d9;
+        width: 25px;
+        height: 25px;
+    }
+
+    .copy-of-theme-tedxgni-2024-1-icon {
+        position: absolute;
+        top: 832px;
+        left: 27px;
+        width: 264px;
+        height: 358px;
+        object-fit: cover;
+    }
+
+    .date {
+        position: absolute;
+        top: 753px;
+        left: 14px;
+        font-size: 96px;
+        line-height: 30px;
+        display: inline-block;
+        font-family: 'Microsoft Tai Le';
+        width: 283px;
+        height: 69px;
+    }
+
+    .venue {
+        position: absolute;
+        top: 1285px;
+        left: 28px;
+        font-size: 80px;
+        line-height: 30px;
+        font-family: 'Microsoft Tai Le';
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 1858px;
+        left: 31px;
+        font-size: 30px;
+        font-family: 'Jersey 20';
+        text-align: left;
+        display: inline-block;
+        width: 251px;
+        height: 39px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 1938px;
+        left: 71px;
+        font-size: 24px;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 249px;
+        height: 160px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 2125px;
+        left: 71px;
+        font-size: 24px;
+        text-decoration: underline;
+        font-weight: 600;
+        font-family: Inter;
+        color: inherit;
+        text-align: left;
+        display: inline-block;
+        width: 249px;
+        height: 29px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 2181px;
+        left: 71px;
+        font-size: 24px;
+        font-weight: 600;
+        font-family: Inter;
+        text-align: left;
+        display: inline-block;
+        width: 200px;
+        height: 48px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 2.01px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 24.3px;
+    }
+
+    .about {
+        position: absolute;
+        top: 34.08px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 65.24px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 160.68px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 24.3px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 96.41px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 128.54px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 24.3px;
+    }
+
+    .home-parent {
+        position: absolute;
+        top: 2461.96px;
+        left: 67.78px;
+        width: 158.6px;
+        height: 185px;
+        text-align: left;
+        font-size: 18px;
+        font-family: Inter;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 2718px;
+        left: 35px;
+        font-size: 10px;
+        font-family: Inter;
+        display: inline-block;
+        width: 259px;
+        height: 64px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 1940.6px;
+        left: 32px;
+        width: 27px;
+        height: 29.7px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 2128.92px;
+        left: 33px;
+        width: 24px;
+        height: 26.4px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 2182.89px;
+        left: 33px;
+        width: 24px;
+        height: 26.4px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2361px;
+        left: 43px;
+        width: 300px;
+        height: 61px;
+        object-fit: cover;
+    }
+
+    .event-page {
+        width: 100%;
+        position: relative;
+        background-color: #00000000;
+        height: 2770px;
+        text-align: center;
+        font-size: 14px;
+        color: #fff;
+        font-family: 'Lao Muang Don';
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    * {
+        margin: 0;
+    }
+
+    .mobile-menu-container {
+        position: fixed;
+        top: 18px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .mobile-hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .mobile-hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .mobile-hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .mobile-hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .mobile-hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .mobile-menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .mobile-menu-overlay.open {
+        top: 0;
+    }
+
+    .mobile-menu-overlay ul {
+        list-style: none;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .mobile-menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .mobile-menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .mobile-menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+
+    }
+
+    .rectangle-group {
+        position: fixed;
+        background-color: #000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 15px;
+        left: 69px;
+        height: 28px;
+        object-fit: cover;
+    }
+
+    .mobile-version {
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    body {
+        background-color: #000;
+    }
+}
+
+body {
+    background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+    background-attachment: fixed;
+}
+
+@media (min-width:1303px) {
+    .desktop-version {
+        max-width: 1303px;
+        margin: 0 auto;
+    }
+}
+
+/* The scroll bar itself */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+}
+
+/* The track (background of the scrollbar) */
+::-webkit-scrollbar-track {
+    background: #000;
+    /* Color of the track */
+}
+
+/* The handle (scroll bar thumb) */
+::-webkit-scrollbar-thumb {
+    background-color: #291f20;
+    /* Color of the thumb */
+    border-radius: 6px;
+    /* Rounded corners for the thumb */
+}
+
+/* On hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #EB0028;
+    /* Color when hovering over the thumb */
+}

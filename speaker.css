@@ -1,0 +1,2292 @@
+@media (min-width:1181px) and (max-width:1300px) {
+    #sp5 {
+        position: absolute;
+        top: 0px;
+        left: -33px;
+        font-size: 27px;
+        line-height: 50px;
+        display: inline-block;
+        width: 380px;
+        height: 31px;
+    }
+
+    #sp5-t {
+        position: absolute;
+        top: 43px;
+        left: 0px;
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 320px;
+        height: 32px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 244px;
+        left: 534px;
+        font-size: 128px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 655px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .untitled-2-icon {
+        position: absolute;
+        top: 571px;
+        left: 95px;
+        border-radius: 3px;
+        width: 289px;
+        height: 311px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon1 {
+        position: absolute;
+        top: 569px;
+        left: 460px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon2 {
+        position: absolute;
+        top: 571px;
+        left: 836px;
+        border-radius: 3px;
+        width: 289px;
+        height: 311px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon3 {
+        position: absolute;
+        top: 1018px;
+        left: 651px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon4 {
+        position: absolute;
+        top: 1464px;
+        left: 95px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon5 {
+        position: absolute;
+        top: 1464px;
+        left: 483px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon6 {
+        position: absolute;
+        top: 1464px;
+        left: 836px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon7 {
+        position: absolute;
+        top: 1902px;
+        left: 296px;
+        border-radius: 63px;
+        width: 289px;
+        height: 311px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon9 {
+        position: absolute;
+        top: 1910px;
+        left: 707px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon10 {
+        position: absolute;
+        top: 1015px;
+        left: 272px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .nikhil-amigo {
+        position: absolute;
+        top: 0px;
+        font-size: 27px;
+        line-height: 50px;
+        display: inline-block;
+        width: 400px;
+        height: 31px;
+    }
+
+    #nikhil-amigo-12 {
+        position: absolute;
+        top: 0px;
+        left: 40px;
+        font-size: 27px;
+        line-height: 50px;
+        display: inline-block;
+        width: 400px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm {
+        position: absolute;
+        top: 45px;
+        left: 0px;
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 320px;
+        height: 32px;
+    }
+
+    .nikhil-amigo-parent {
+        position: absolute;
+        top: 893px;
+        left: 102px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-group {
+        position: absolute;
+        top: 1342px;
+        left: 660px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-container {
+        position: absolute;
+        top: 1342px;
+        left: 278px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo3 {
+        position: absolute;
+        top: 895px;
+        left: 855px;
+        line-height: 50px;
+        display: inline-block;
+        width: 283px;
+        height: 31px;
+        font-size: 28px;
+    }
+
+    .co-founder-of-ghm3 {
+        position: absolute;
+        top: 940px;
+        left: 837px;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 300px;
+        height: 32px;
+    }
+
+    .nikhil-amigo4 {
+        position: absolute;
+        top: 893px;
+        left: 510px;
+        font-size: 28px;
+        line-height: 50px;
+        display: inline-block;
+        width: 283px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm4 {
+        position: absolute;
+        top: 938px;
+        left: 463px;
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 381px;
+        height: 32px;
+    }
+
+    .group-div {
+        position: absolute;
+        top: 1791px;
+        left: 105px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent1 {
+        position: absolute;
+        top: 1788px;
+        left: 495px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent2 {
+        position: absolute;
+        top: 1789px;
+        left: 852px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent3 {
+        position: absolute;
+        top: 2233px;
+        left: 305px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent4 {
+        position: absolute;
+        top: 2233px;
+        left: 724px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .group-child {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        background-color: #00000000;
+        width: 100%;
+        height: 59px;
+    }
+
+    .speakers3 {
+        position: absolute;
+        top: 2834px;
+        left: 109px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+        font-size: 18px;
+        font-family: Inter;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 12.98px;
+        left: 23.9px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .home {
+        position: absolute;
+        top: 20.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 20.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+    }
+
+    .about {
+        position: absolute;
+        top: 19.61px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 20px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 21px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+    }
+
+    .event {
+        position: absolute;
+        top: 20px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+    }
+
+    .gallery {
+        position: absolute;
+        top: 17.06px;
+        left: 766.39px;
+        display: inline-block;
+        width: 114.6px;
+        height: 14.8px;
+        font-size: 18px;
+        background-color: transparent;
+    }
+
+    .group-item {
+        position: absolute;
+        top: 11.8px;
+        left: 974.24px;
+        border-radius: 19px;
+        background-color: #d9d9d9;
+        width: 176.4px;
+        height: 35.4px;
+    }
+
+    .register-now {
+        position: absolute;
+        top: 17px;
+        left: 999.33px;
+        font-weight: 600;
+        color: #000;
+        display: inline-block;
+        width: 200.7px;
+        height: 23px;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+        font-size: 20px;
+        font-family: Inter;
+        background-color: #000;
+        width: 100%;
+    }
+
+    .home1 {
+        position: absolute;
+        top: 2769px;
+        left: 109px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        display: inline-block;
+        width: 71px;
+        height: 25px;
+    }
+
+    .about1 {
+        position: absolute;
+        top: 2802px;
+        left: 109px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 17.06px;
+        left: 485.18px;
+        display: inline-block;
+        width: 89px;
+        height: 15.9px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .sponsor1 {
+        position: absolute;
+        top: 2866px;
+        left: 109px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .event1 {
+        position: absolute;
+        top: 2899px;
+        left: 109px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        display: inline-block;
+        width: 116px;
+        height: 25px;
+    }
+
+    .contact-us1 {
+        position: absolute;
+        top: 2932px;
+        left: 109px;
+        font-size: 18px;
+        font-weight: 300;
+        font-family: Inter;
+        display: inline-block;
+        width: 158px;
+        height: 25px;
+    }
+
+    .map {
+        position: absolute;
+        top: 2820px;
+        left: 826px;
+        font-size: 32px;
+        font-weight: 600;
+        font-family: Inter;
+        color: #000;
+        display: inline-block;
+        width: 114px;
+        height: 43px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 2684px;
+        left: 77px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        font-size: 40px;
+        font-weight: 800;
+        display: inline-block;
+        width: 422px;
+        height: 38px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 75px;
+        left: 50px;
+        font-size: 32px;
+        display: inline-block;
+        width: 423px;
+        height: 47px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 252px;
+        left: 50px;
+        display: inline-block;
+        width: 288px;
+        height: 47px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 207px;
+        left: 52px;
+        color: inherit;
+        display: inline-block;
+        width: 246px;
+        height: 31px;
+        text-decoration: none;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 206px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 260px;
+        left: 3px;
+        width: 30px;
+        height: 29px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 79px;
+        left: 2px;
+        width: 32px;
+        height: 31px;
+    }
+
+    .contact-info-parent {
+        position: absolute;
+        top: 2684px;
+        left: 646px;
+        width: 473px;
+        height: 299px;
+        font-size: 24px;
+        font-family: Inter;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 3023px;
+        left: -99px;
+        font-size: 16px;
+        font-family: Inter;
+        text-align: center;
+        display: inline-block;
+        width: 1399px;
+        height: 58px;
+    }
+
+    .speaker-page-1 {
+        width: 100%;
+        position: relative;
+        background-color: #03000000;
+        height: 3078px;
+        text-align: left;
+        font-size: 38px;
+        color: #fff;
+        font-family: 'Microsoft Tai Le';
+    }
+
+    body {
+        margin: 0;
+        line-height: normal;
+    }
+
+    .home2 {
+        position: absolute;
+        top: 17.06px;
+        left: 332.25px;
+        display: inline-block;
+        width: 57.7px;
+        height: 13px;
+        font-size: 18px;
+    }
+
+    .about2 {
+        position: absolute;
+        top: 17.06px;
+        left: 408.07px;
+        display: inline-block;
+        width: 58.5px;
+        height: 12.8px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .sponsor2 {
+        position: absolute;
+        top: 17.06px;
+        left: 591.93px;
+        display: inline-block;
+        width: 79.1px;
+        height: 13.6px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .event2 {
+        position: absolute;
+        top: 17.06px;
+        left: 693.78px;
+        display: inline-block;
+        width: 71.6px;
+        height: 15px;
+        cursor: pointer;
+        font-size: 18px;
+    }
+
+    .contact-us2 {
+        position: absolute;
+        top: 17.06px;
+        left: 850.08px;
+        display: inline-block;
+        width: 120px;
+        height: 16px;
+        cursor: pointer;
+        font-size: 18px
+    }
+
+    .button {
+        cursor: pointer;
+        position: relative;
+        bottom: 5px;
+        padding: 10px 24px;
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        border: 2px solid rgb(237, 18, 18);
+        border-radius: 34px;
+        background-color: transparent;
+        font-weight: 600;
+        transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
+        overflow: hidden;
+    }
+
+    .button::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        margin: auto;
+        width: 50px;
+        height: 50px;
+        border-radius: inherit;
+        scale: 0;
+        z-index: -1;
+        background-color: rgb(255, 255, 255);
+        transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+    }
+
+    .button:hover::before {
+        scale: 3;
+    }
+
+    .button:hover {
+        color: #c41515;
+        scale: 1.1;
+        box-shadow: 0 0px 22px rgba(255, 255, 255, 0.4);
+    }
+
+    .button:active {
+        scale: 2;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+
+    }
+
+    a:hover {
+        text-decoration: overline;
+        text-decoration-color: #eb0028;
+        font-size: 20px;
+        ;
+    }
+
+    * {
+        padding: 0px;
+        margin: 0p;
+    }
+}
+
+@media (min-width:768px) and (max-width:1180px) {
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 238px;
+        left: 255px;
+        font-size: 96px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 462px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .untitled-2-icon {
+        position: absolute;
+        top: 413px;
+        left: 58px;
+        border-radius: 3px;
+        width: 289px;
+        height: 311px;
+        object-fit: cover;
+
+    }
+
+    .untitled-2-icon1 {
+        position: absolute;
+        top: 414px;
+        left: 416px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon2 {
+        position: absolute;
+        top: 898px;
+        left: 416px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon3 {
+        position: absolute;
+        top: 895px;
+        left: 58px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .nikhil-amigo {
+        position: absolute;
+        top: 0px;
+        left: -10px;
+        font-size: smaller;
+
+        display: inline-block;
+        width: px;
+        height: 31px;
+    }
+
+    #sp5 {
+        position: absolute;
+        top: 0px;
+        bottom: 7px;
+        left: 0px;
+        line-height: 33px;
+        text-align: center;
+        font-size: smaller;
+
+        display: inline-block;
+        width: 300px;
+        height: 31px;
+    }
+
+    #sp5-t {
+        position: absolute;
+        top: 70px;
+        left: 20px;
+        font-size: 13px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 300px;
+        height: 32px;
+    }
+
+    .co-founder-of-ghm {
+        position: absolute;
+        top: 45px;
+        left: -10px;
+        font-size: 13px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 330px;
+        height: 32px;
+    }
+
+    .nikhil-amigo-parent {
+        position: absolute;
+        top: 738px;
+        left: 45px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-group {
+        position: absolute;
+        top: 1222px;
+        left: 446px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-container {
+        position: absolute;
+        top: 1222px;
+        left: 64px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo3 {
+        position: absolute;
+        top: 738px;
+        left: 470px;
+        font-size: smaller;
+        line-height: 50px;
+        display: inline-block;
+        width: 283px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm3 {
+        position: absolute;
+        top: 783px;
+        left: 419px;
+        font-size: 13px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 300px;
+        height: 32px;
+    }
+
+    .untitled-2-icon4 {
+        position: absolute;
+        top: 1382px;
+        left: 58px;
+        border-radius: 3px;
+        width: 289px;
+        height: 311px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon5 {
+        position: absolute;
+        top: 1383px;
+        left: 416px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon6 {
+        position: absolute;
+        top: 1867px;
+        left: 437px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon7 {
+        position: absolute;
+        top: 1864px;
+        left: 58px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .group-div {
+        position: absolute;
+        top: 1707px;
+        left: 45px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent1 {
+        position: absolute;
+        top: 2191px;
+        left: 446px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent2 {
+        position: absolute;
+        top: 2191px;
+        left: 64px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo7 {
+        position: absolute;
+        top: 1707px;
+        left: 443px;
+        line-height: 50px;
+        font-size: smaller;
+        display: inline-block;
+        width: 283px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm7 {
+        position: absolute;
+        top: 1740px;
+        left: 442px;
+        font-size: 18px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 381px;
+        height: 32px;
+    }
+
+    .untitled-2-icon8 {
+        position: absolute;
+        top: 2327px;
+        left: 71px;
+        border-radius: 59px;
+        width: 289px;
+        height: 311px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon9 {
+        position: absolute;
+        top: 2328px;
+        left: 429px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon10 {
+        position: absolute;
+        top: 2812px;
+        left: 450px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon11 {
+        position: absolute;
+        top: 2809px;
+        left: 71px;
+        border-radius: 63px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .nikhil-amigo-parent3 {
+        position: absolute;
+        top: 2652px;
+        left: 58px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent4 {
+        position: absolute;
+        top: 3136px;
+        left: 459px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent5 {
+        position: absolute;
+        top: 3136px;
+        left: 77px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo11 {
+        position: absolute;
+        top: 2652px;
+        left: 456px;
+        line-height: 50px;
+        display: inline-block;
+        width: 283px;
+        height: 31px;
+        font-size: smaller;
+    }
+
+    .co-founder-of-ghm11 {
+        position: absolute;
+        top: 2683px;
+        left: 455px;
+        font-size: 30px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 381px;
+        height: 32px;
+        font-size: 18px;
+    }
+
+    .copyrights-2024-tedx {
+        margin: 0;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 262px;
+        left: 0px;
+        font-size: 12px;
+        text-align: center;
+        display: inline-block;
+        width: 1404px;
+        height: 58px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 425.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 25px;
+    }
+
+    .about {
+        position: absolute;
+        top: 35px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 67px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 165px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 25px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 99px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .event {
+        position: absolute;
+        top: 132px;
+        left: 423.78px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 25px;
+    }
+
+    .copyrights-2024-tedx-gni-all-parent {
+        position: absolute;
+        top: 3961px;
+        left: -318px;
+        width: 1404px;
+        height: 320px;
+        font-size: 18px;
+        font-family: Inter;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 3517px;
+        left: 166px;
+        font-size: 32px;
+        font-family: Inter;
+        display: inline-block;
+        width: 434px;
+        height: 44px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 3696px;
+        left: 166px;
+        font-size: 24px;
+        font-weight: 600;
+        font-family: Inter;
+        display: inline-block;
+        width: 295px;
+        height: 44px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 3646px;
+        left: 166px;
+        font-size: 24px;
+        text-decoration: underline;
+        font-weight: 600;
+        font-family: Inter;
+        color: inherit;
+        display: inline-block;
+        width: 252px;
+        height: 28px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 3422px;
+        left: 102px;
+        font-size: 48px;
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 376px;
+        height: 36px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 3696px;
+        left: 102px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon1 {
+        position: absolute;
+        top: 3646px;
+        left: 106px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .mail-icon2 {
+        position: absolute;
+        top: 3525px;
+        left: 106px;
+        width: 30.8px;
+        height: 27.1px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 3865px;
+        left: 72px;
+        width: 289px;
+        height: 67px;
+        object-fit: cover;
+    }
+
+    .speaker-page-1 {
+        width: 100%;
+        position: relative;
+        background-color: #03000000;
+        overflow: hidden;
+        height: 4281px;
+        text-align: left;
+        font-size: 38px;
+        color: #fff;
+        font-family: 'Microsoft Tai Le';
+    }
+
+    * {
+        margin: 0;
+    }
+
+    body {
+        background-color: black;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+        align-content: center;
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+
+
+    .menu-container {
+        position: fixed;
+        top: 20px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .tablet-version {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+
+    .menu-overlay.open {
+        top: 0;
+    }
+
+    .menu-overlay ul {
+        list-style: none;
+        text-align: center;
+    }
+
+    .menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 13px;
+        left: 67px;
+        width: 188.7px;
+        height: 33px;
+        object-fit: cover;
+    }
+
+    .rectangle-parent {
+        position: fixed;
+        background-color: #000000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .mobile-version {
+        display: none;
+    }
+
+    .glow-on-hover {
+        width: 120px;
+        left: 600px;
+        bottom: 3px;
+        height: 40px;
+        border: none;
+        outline: none;
+        color: #fff;
+        background: #111;
+        cursor: pointer;
+        position: relative;
+        z-index: 0;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:before {
+        content: '';
+        background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+        position: absolute;
+        top: -2px;
+        left: -2px;
+        background-size: 400%;
+        z-index: -1;
+        filter: blur(5px);
+        width: calc(100% + 4px);
+        height: calc(100% + 4px);
+        animation: glowing 20s linear infinite;
+        opacity: 0;
+        transition: opacity .3s ease-in-out;
+        border-radius: 10px;
+    }
+
+    .glow-on-hover:active {
+        color: #000
+    }
+
+    .glow-on-hover:active:after {
+        background: transparent;
+    }
+
+    .glow-on-hover:hover:before {
+        opacity: 1;
+    }
+
+    .glow-on-hover:after {
+        z-index: -1;
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: #eb0027a1;
+        left: 0;
+        top: 0;
+        border-radius: 10px;
+    }
+}
+
+@media (min-width:100px) and (max-width:767.5px) {
+    .buy {
+        background-color: black;
+        border-radius: 16px;
+        font-size: 26px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: white;
+        width: 120px;
+        height: 90px;
+        padding: 8px;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .buy:hover a {
+        color: rgb(255, 255, 255);
+        background-color: #ffffff00;
+
+    }
+
+    .buy:hover {
+        color: black;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+
+    }
+
+    .desktop-version {
+        display: none;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .speakers {
+        position: absolute;
+        top: 119px;
+        left: 58px;
+        font-size: 48px;
+        line-height: 50px;
+        font-family: 'Lao Muang Don';
+        display: inline-block;
+        width: 262px;
+        height: 55px;
+        opacity: 0.54;
+    }
+
+    .untitled-2 {
+        position: absolute;
+        top: 225px;
+        left: 59px;
+        border-radius: 63px;
+        border: 1px solid #ffffff00;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    img {
+        border-radius: 5px;
+    }
+
+    .nikhil-amigo {
+        position: absolute;
+        top: 445px;
+        left: 47px;
+        line-height: 50px;
+        display: inline-block;
+        width: 250px;
+        height: 31px;
+        font-size: 22px;
+    }
+
+    .co-founder-of-ghm {
+        position: absolute;
+        top: 479px;
+        left: 48px;
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 230px;
+        height: 32px;
+    }
+
+    .untitled-21 {
+        position: absolute;
+        top: 564px;
+        left: 59px;
+        border-radius: 63px;
+        border: 1px solid #ffffff00;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo1 {
+        position: absolute;
+        top: 784px;
+        left: 95px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+        font-size: 21px;
+    }
+
+    .co-founder-of-ghm1 {
+        position: absolute;
+        top: 818px;
+        left: 64px;
+        font-size: 13px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-22 {
+        position: absolute;
+        top: 910px;
+        left: 59px;
+        border-radius: 63px;
+        border: 1px solid #ffffff00;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo2 {
+        position: absolute;
+        top: 1125px;
+        left: 60px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+        font-size: 21px;
+    }
+
+    .co-founder-of-ghm2 {
+        position: absolute;
+        top: 1165px;
+        left: 60px;
+        font-size: 11px;
+        line-height: 18px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-23 {
+        position: absolute;
+        top: 1250px;
+        left: 59px;
+        border-radius: 63px;
+        border: 1px solid #ffffff00;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo3 {
+        position: absolute;
+        top: 1470px;
+        left: 85px;
+        line-height: 20px;
+        font-size: 21px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm3 {
+        position: absolute;
+        top: 1504px;
+        left: 64px;
+        font-size: 13px;
+        line-height: 20px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+
+
+    .untitled-24 {
+        position: absolute;
+        top: 1587px;
+        left: 59px;
+        border-radius: 63px;
+        border: 1px solid #ffffff00;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo4 {
+        position: absolute;
+        top: 1807px;
+        left: 26px;
+        line-height: 20px;
+        font-size: 20px;
+        display: inline-block;
+        width: 300px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm4 {
+        position: absolute;
+        top: 1841px;
+        left: 64px;
+        font-size: 11px;
+        line-height: 15px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-25 {
+        position: absolute;
+        top: 1926px;
+        left: 59px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo5 {
+        position: absolute;
+        top: 2146px;
+        left: 60px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm5 {
+        position: absolute;
+        top: 2180px;
+        left: 64px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-214 {
+        position: absolute;
+        top: 2300px;
+        left: 55px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo14 {
+        position: absolute;
+        top: 2520px;
+        left: 56px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm14 {
+        position: absolute;
+        top: 2554px;
+        left: 60px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-215 {
+        position: absolute;
+        top: 2639px;
+        left: 55px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo15 {
+        position: absolute;
+        top: 2859px;
+        left: 56px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm15 {
+        position: absolute;
+        top: 2893px;
+        left: 60px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-216 {
+        position: absolute;
+        top: 2976px;
+        left: 55px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo16 {
+        position: absolute;
+        top: 3196px;
+        left: 56px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm16 {
+        position: absolute;
+        top: 3230px;
+        left: 60px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-217 {
+        position: absolute;
+        top: 3315px;
+        left: 55px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo17 {
+        position: absolute;
+        top: 3535px;
+        left: 56px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm17 {
+        position: absolute;
+        top: 3569px;
+        left: 60px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-226 {
+        position: absolute;
+        top: 3654px;
+        left: 55px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo26 {
+        position: absolute;
+        top: 3874px;
+        left: 56px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm26 {
+        position: absolute;
+        top: 3908px;
+        left: 60px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-227 {
+        position: absolute;
+        top: 3991px;
+        left: 55px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo27 {
+        position: absolute;
+        top: 4211px;
+        left: 56px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm27 {
+        position: absolute;
+        top: 4245px;
+        left: 60px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .untitled-228 {
+        position: absolute;
+        top: 4330px;
+        left: 55px;
+        border-radius: 63px;
+        border: 1px solid #fff;
+        box-sizing: border-box;
+        width: 200px;
+        height: 201px;
+    }
+
+    .nikhil-amigo28 {
+        position: absolute;
+        top: 4550px;
+        left: 56px;
+        line-height: 50px;
+        display: inline-block;
+        width: 199px;
+        height: 31px;
+    }
+
+    .co-founder-of-ghm28 {
+        position: absolute;
+        top: 4584px;
+        left: 60px;
+        font-size: 20px;
+        line-height: 50px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 191px;
+        height: 32px;
+    }
+
+    .contact-info {
+        position: absolute;
+        top: 4876px;
+        left: 31px;
+
+        font-family: 'Jersey 20';
+        display: inline-block;
+        width: 251px;
+        height: 35px;
+    }
+
+    .guru-nanak-institutions {
+        margin: 0;
+    }
+
+    .guru-nanak-institutions-container {
+        position: absolute;
+        top: 4949px;
+        left: 71px;
+        font-size: 24px;
+        font-family: Inter;
+        display: inline-block;
+        width: 249px;
+        height: 145px;
+    }
+
+    .tedxgnigmailcom {
+        position: absolute;
+        top: 5118px;
+        left: 71px;
+        font-size: 24px;
+        text-decoration: underline;
+        font-weight: 600;
+        font-family: Inter;
+        color: inherit;
+        display: inline-block;
+        width: 249px;
+        height: 27px;
+    }
+
+    .xxxxxx {
+        position: absolute;
+        top: 5169px;
+        left: 71px;
+        font-size: 24px;
+        font-weight: 600;
+        font-family: Inter;
+        display: inline-block;
+        width: 200px;
+        height: 44px;
+    }
+
+    .home {
+        position: absolute;
+        top: 0px;
+        left: 2.01px;
+        font-weight: 300;
+        display: inline-block;
+        width: 71.3px;
+        height: 22.1px;
+    }
+
+    .about {
+        position: absolute;
+        top: 30.95px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .speakers1 {
+        position: absolute;
+        top: 59.24px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .contact-us {
+        position: absolute;
+        top: 145.89px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 158.6px;
+        height: 22.1px;
+    }
+
+    .sponsor {
+        position: absolute;
+        top: 87.54px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .event {
+        position: absolute;
+        top: 116.72px;
+        left: 0px;
+        font-weight: 300;
+        display: inline-block;
+        width: 116.4px;
+        height: 22.1px;
+    }
+
+    .home-parent {
+        position: absolute;
+        top: 5424.4px;
+        left: 67.78px;
+        width: 158.6px;
+        height: 168px;
+        font-size: 18px;
+        font-family: Inter;
+    }
+
+    .copyrights-2024-tedx-container {
+        position: absolute;
+        top: 5657px;
+        left: 35px;
+        font-size: 10px;
+        font-family: Inter;
+        text-align: center;
+        display: inline-block;
+        width: 259px;
+        height: 58px;
+    }
+
+    .distance-icon {
+        position: absolute;
+        top: 4951px;
+        left: 32px;
+        width: 27px;
+        height: 27px;
+    }
+
+    .mail-icon {
+        position: absolute;
+        top: 5122px;
+        left: 33px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .call-icon {
+        position: absolute;
+        top: 5171px;
+        left: 33px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .logo-white-2-icon {
+        position: absolute;
+        top: 5333px;
+        left: 57px;
+        width: 200px;
+        height: 55px;
+        object-fit: cover;
+    }
+
+    .speaker-page-1 {
+        width: 100%;
+        position: relative;
+        background-color: #03000000;
+        height: 5715px;
+        text-align: left;
+        font-size: 32px;
+        color: #fff;
+        font-family: 'Microsoft Tai Le';
+    }
+
+    * {
+        margin: 0px;
+    }
+
+    .tablet-version {
+        display: none;
+    }
+
+    .mobile-menu-container {
+        position: fixed;
+        top: 18px;
+        left: 20px;
+        z-index: 10;
+        cursor: pointer;
+    }
+
+    .mobile-hamburger {
+        width: 30px;
+        height: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .mobile-hamburger span {
+        display: block;
+        height: 3px;
+        background: #ffffff;
+        border-radius: 2px;
+        transition: all 0.3s ease;
+    }
+
+    .mobile-hamburger.open span:nth-child(1) {
+        transform: translateY(9px) rotate(45deg);
+    }
+
+    .mobile-hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .mobile-hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
+    }
+
+    .mobile-menu-overlay {
+        position: fixed;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: top 0.4s ease;
+        z-index: 5;
+    }
+
+    .mobile-menu-overlay.open {
+        top: 0;
+    }
+
+    .mobile-menu-overlay ul {
+        list-style: none;
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .mobile-menu-overlay ul li {
+        margin: 20px 0;
+    }
+
+    .mobile-menu-overlay ul li a {
+        color: #fff;
+        font-size: 24px;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .mobile-menu-overlay ul li a:hover {
+        color: #000000;
+    }
+
+    #logo-overlay {
+        background-color: #00000000;
+        padding: 8px;
+        border-radius: 8px;
+
+    }
+
+    .rectangle-group {
+        position: fixed;
+        background-color: #000;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 59px;
+    }
+
+    .logo-white-1-icon {
+        position: absolute;
+        top: 15px;
+        left: 69px;
+        height: 28px;
+        object-fit: cover;
+    }
+
+    .mobile-version {
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    body {
+        background-color: #00000000;
+    }
+}
+
+body {
+    background-image: url(WhatsApp\ Image\ 2024-10-18\ at\ 09.50.09_796eac8b.jpg);
+    background-size: cover;
+    /* Ensures the image covers the entire screen */
+    background-position: center center;
+    /* Centers the image */
+    background-repeat: no-repeat;
+    /* Prevents repeating */
+    background-attachment: fixed;
+}
+
+@media (min-width:1303px) {
+    .desktop-version {
+        max-width: 1303px;
+        margin: 0 auto;
+    }
+}
+
+/* The scroll bar itself */
+::-webkit-scrollbar {
+    width: 8px;
+    /* Width of the scrollbar */
+}
+
+/* The track (background of the scrollbar) */
+::-webkit-scrollbar-track {
+    background: #000;
+    /* Color of the track */
+}
+
+/* The handle (scroll bar thumb) */
+::-webkit-scrollbar-thumb {
+    background-color: #291f20;
+    /* Color of the thumb */
+    border-radius: 6px;
+    /* Rounded corners for the thumb */
+}
+
+/* On hover */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #EB0028;
+    /* Color when hovering over the thumb */
+}
