@@ -2,7 +2,7 @@
     #sp5 {
         position: absolute;
         top: 0px;
-        left: -33px;
+        left: -70px;
         font-size: 27px;
         line-height: 50px;
         display: inline-block;
@@ -13,13 +13,37 @@
     #sp5-t {
         position: absolute;
         top: 43px;
-        left: 0px;
+        left: -37px;
         font-size: 14px;
         line-height: 17px;
         font-weight: 300;
         font-family: 'Microsoft YaHei UI';
         display: inline-block;
         width: 320px;
+        height: 32px;
+    }
+
+    #sp6 {
+        position: absolute;
+        top: 0px;
+        left: -30px;
+        font-size: 27px;
+        line-height: 50px;
+        display: inline-block;
+        width: 380px;
+        height: 31px;
+    }
+
+    #sp6-t {
+        position: absolute;
+        top: 43px;
+        left: -55px;
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: 300;
+        font-family: 'Microsoft YaHei UI';
+        display: inline-block;
+        width: 305px;
         height: 32px;
     }
 
@@ -77,7 +101,7 @@
     .untitled-2-icon3 {
         position: absolute;
         top: 1018px;
-        left: 651px;
+        left: 460px;
         border-radius: 3px;
         width: 289px;
         height: 310px;
@@ -137,7 +161,27 @@
     .untitled-2-icon10 {
         position: absolute;
         top: 1015px;
-        left: 272px;
+        left: 102px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon11 {
+        position: absolute;
+        top: 1015px;
+        left: 836px;
+        border-radius: 3px;
+        width: 289px;
+        height: 310px;
+        object-fit: cover;
+    }
+
+    .untitled-2-icon12 {
+        position: absolute;
+        top: 2315px;
+        left: 480px;
         border-radius: 3px;
         width: 289px;
         height: 310px;
@@ -189,15 +233,15 @@
     .nikhil-amigo-group {
         position: absolute;
         top: 1342px;
-        left: 660px;
+        left: 510px;
         width: 381px;
         height: 77px;
     }
 
     .nikhil-amigo-container {
         position: absolute;
-        top: 1342px;
-        left: 278px;
+        top: 1324px;
+        left: 102px;
         width: 381px;
         height: 77px;
     }
@@ -286,6 +330,22 @@
         position: absolute;
         top: 2233px;
         left: 724px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent5 {
+        position: absolute;
+        top: 1342px;
+        left: 900px;
+        width: 381px;
+        height: 77px;
+    }
+
+    .nikhil-amigo-parent6 {
+        position: absolute;
+        top: 2450px;
+        left: 800px;
         width: 381px;
         height: 77px;
     }
@@ -920,7 +980,7 @@
         position: absolute;
         top: 1383px;
         left: 416px;
-        border-radius: 63px;
+        border-radius: 3px;
         width: 289px;
         height: 310px;
         object-fit: cover;
@@ -973,7 +1033,7 @@
     .nikhil-amigo7 {
         position: absolute;
         top: 1707px;
-        left: 443px;
+        left: 435px;
         line-height: 50px;
         font-size: smaller;
         display: inline-block;
@@ -983,14 +1043,14 @@
 
     .co-founder-of-ghm7 {
         position: absolute;
-        top: 1740px;
-        left: 442px;
-        font-size: 18px;
-        line-height: 50px;
+        top: 1760px;
+        left: 435px;
+        font-size: 13px;
+        line-height: 20px;
         font-weight: 300;
         font-family: 'Microsoft YaHei UI';
         display: inline-block;
-        width: 381px;
+        width: 280px;
         height: 32px;
     }
 
@@ -1681,7 +1741,7 @@
         top: 1926px;
         left: 59px;
         border-radius: 63px;
-        border: 1px solid #fff;
+        border: 1px solid #ffffff00;
         box-sizing: border-box;
         width: 200px;
         height: 201px;
@@ -1690,8 +1750,9 @@
     .nikhil-amigo5 {
         position: absolute;
         top: 2146px;
-        left: 60px;
-        line-height: 50px;
+        left: 75px;
+        font-size: 20px;
+        line-height: 20px;
         display: inline-block;
         width: 199px;
         height: 31px;
@@ -1701,8 +1762,8 @@
         position: absolute;
         top: 2180px;
         left: 64px;
-        font-size: 20px;
-        line-height: 50px;
+        font-size: 11px;
+        line-height: 20px;
         font-weight: 300;
         font-family: 'Microsoft YaHei UI';
         display: inline-block;
@@ -1996,7 +2057,7 @@
         font-weight: 600;
         font-family: Inter;
         display: inline-block;
-        width: 200px;
+        width: 220px;
         height: 44px;
     }
 
